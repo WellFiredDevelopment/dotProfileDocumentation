@@ -18,7 +18,7 @@ The main documentation for the site is organized into the following sections:
    :caption: Class API reference
    :name: sec-class-ref
 
-   classes/index
+   api/index
 
 
 .. Indices and tables
