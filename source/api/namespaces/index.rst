@@ -1,5 +1,5 @@
 Namespaces
-===================
+===========
 
 .. toctree::
    :maxdepth: 1

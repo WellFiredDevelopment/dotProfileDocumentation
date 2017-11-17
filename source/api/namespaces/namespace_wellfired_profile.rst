@@ -1,4 +1,15 @@
-.. _namespace_WellFired.Profile:
+.. _namespacewellfired_profile:
 
-WellFired.Profile
-=================
+Profile
+========
+
+**Namespace:** :ref:`<namespace>`
+
+Description
+------------
+
+
+
+Method Breakdown
+-----------------
+

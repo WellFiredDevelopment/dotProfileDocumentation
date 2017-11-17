@@ -1,5 +1,5 @@
 .Profile API
-============
+=============
 
 .. toctree::
    :maxdepth: 1
@@ -10,3 +10,4 @@
    interfaces/index.rst
    namespaces/index.rst
    enums/index.rst
+
