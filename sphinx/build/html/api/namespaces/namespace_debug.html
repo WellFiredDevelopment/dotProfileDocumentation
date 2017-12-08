@@ -1,0 +1,333 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Debug &mdash; dotProfile 0 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  
+
+  
+
+  
+        <link rel="index" title="Index"
+              href="../../genindex.html"/>
+        <link rel="search" title="Search" href="../../search.html"/>
+    <link rel="top" title="dotProfile 0 documentation" href="../../index.html"/>
+        <link rel="up" title="Namespaces" href="index.html"/>
+        <link rel="next" title="ILogger" href="namespace_ilogger.html"/>
+        <link rel="prev" title="Color" href="namespace_color.html"/> 
+
+  
+  <script src="../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../index.html" class="icon icon-home"> dotProfile
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                2017.0.0
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">Class API reference</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">.Profile API</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../classes/index.html">Classes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../interfaces/index.html">Interfaces</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="index.html">Namespaces</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="namespace_blendweights.html">BlendWeights</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_color.html">Color</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Debug</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#description">Description</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#method-breakdown">Method Breakdown</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_ilogger.html">ILogger</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_newtonsoft_json.html">Json</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_newtonsoft_json_linq.html">Linq</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_object.html">Object</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_shadowsettings.html">ShadowSettings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system.html">System</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system_collections.html">Collections</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system_collections_generic.html">Generic</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system_diagnostics.html">Diagnostics</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system_globalization.html">Globalization</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system_io.html">IO</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system_linq.html">Linq</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system_net.html">Net</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system_net_sockets.html">Sockets</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system_reflection.html">Reflection</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system_runtime_interopservices.html">InteropServices</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system_text.html">Text</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system_text_regularexpressions.html">RegularExpressions</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_system_threading_tasks.html">Tasks</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_texturesettings.html">TextureSettings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_unityengine.html">UnityEngine</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_unityengine_profiling.html">Profiling</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_unityengine_scenemanagement.html">SceneManagement</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_unityengine_ui.html">UI</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired.html">WellFired</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_annotations.html">Annotations</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile.html">Profile</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_config.html">Config</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_config_exception.html">Exception</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_config_processor.html">Processor</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_config_tracker.html">Tracker</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_config_utils.html">Utils</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_data.html">Data</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_data_continousdata.html">ContinousData</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_data_graphicsettings.html">GraphicSettings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_data_graphicsettings_shadow.html">Shadow</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_data_graphicsettings_texture.html">Texture</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_data_physicssettings.html">PhysicsSettings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_exceptions.html">Exceptions</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_probes.html">Probes</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_profileprocessor.html">ProfileProcessor</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_profileprocessor_exception.html">Exception</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_profileprocessor_filedump.html">FileDump</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_profileprocessor_node.html">Node</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_profileprocessor_node_exceptions.html">Exceptions</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_profileprocessor_visual.html">Visual</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_profileprocessor_visual_graph.html">Graph</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_profileprocessor_visual_group.html">Group</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_profileprocessor_visual_ui.html">UI</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity.html">Unity</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime.html">Runtime</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_configs.html">Configs</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_probes.html">Probes</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_probes_continuousdata.html">ContinuousData</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_probes_continuousdata_memory.html">Memory</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_probes_continuousdata_physics.html">Physics</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_probes_graphicsettings.html">GraphicSettings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_probes_graphicsettings_particles.html">Particles</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_probes_graphicsettings_shadow.html">Shadow</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_probes_graphicsettings_texture.html">Texture</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_probes_hardwaresettings.html">HardwareSettings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_probes_physicssettings.html">PhysicsSettings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_probes_timesettings.html">TimeSettings</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_profileprocessor.html">ProfileProcessor</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_profileprocessor_visual.html">Visual</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_profileprocessor_visual_graph.html">Graph</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_profileprocessor_visual_group.html">Group</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_profileprocessor_visual_ui.html">UI</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_unity_runtime_utils.html">Utils</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_profile_utils.html">Utils</a></li>
+<li class="toctree-l3"><a class="reference internal" href="namespace_wellfired_promise.html">Promise</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../enums/index.html">Enums</a></li>
+</ul>
+</li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">dotProfile</a>
+        
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../index.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../index.html">.Profile API</a> &raquo;</li>
+        
+          <li><a href="index.html">Namespaces</a> &raquo;</li>
+        
+      <li>Debug</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../../_sources/api/namespaces/namespace_debug.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="debug">
+<span id="namespacedebug"></span><h1>Debug<a class="headerlink" href="#debug" title="Permalink to this headline">¶</a></h1>
+<p><strong>Namespace:</strong> <span class="xref std std-ref">&lt;namespace&gt;</span></p>
+<div class="section" id="description">
+<h2>Description<a class="headerlink" href="#description" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="method-breakdown">
+<h2>Method Breakdown<a class="headerlink" href="#method-breakdown" title="Permalink to this headline">¶</a></h2>
+</div>
+</div>
+
+
+           </div>
+           <div class="articleComments">
+            
+           </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="namespace_ilogger.html" class="btn btn-neutral float-right" title="ILogger" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="namespace_color.html" class="btn btn-neutral" title="Color" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2017, Terry Magnus Drever.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../',
+            VERSION:'0',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../_static/doctools.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>
