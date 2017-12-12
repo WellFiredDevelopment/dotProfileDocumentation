@@ -11,7 +11,7 @@ CPULoadProbe
 Description
 ------------
 
-:ref:`Probes<namespacewellfired_profile_unity_runtime_probes>` the current CPU Load 
+:ref:`Probes<namespacewellfired_profile_unity_runtime_probes>` the CPU Load 
 
 Properties
 -----------
