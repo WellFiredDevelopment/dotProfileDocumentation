@@ -13,14 +13,14 @@ Description
 Public Properties
 ------------------
 
-+------------------+-------------------------------------------------------------------------------------------------------------------------------------+
-|override string   |:ref:`Message<classwellfired_profile_config_exception_processornotfoundexception_1a4a8386ee97057b5ee949866bf4b248ff>` **(**  **)**   |
-+------------------+-------------------------------------------------------------------------------------------------------------------------------------+
++------------------+-------------------------------------------------------------------------------------------------------------------------+
+|override string   |:ref:`Message<classwellfired_profile_config_exception_processornotfoundexception_1a4a8386ee97057b5ee949866bf4b248ff>`    |
++------------------+-------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_config_exception_processornotfoundexception_1a4a8386ee97057b5ee949866bf4b248ff:
 
-- override string **Message** **(**  **)**
+- override string **Message** 
 

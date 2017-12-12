@@ -16,9 +16,9 @@ Description
 Public Properties
 ------------------
 
-+-------------+----------------------------------------------------------------------------------------------------------------+
-|int          |:ref:`ProbeCount<classwellfired_profile_probes_probehashset_1aecf45fa9a8b810f9937a856fbc63d111>` **(**  **)**   |
-+-------------+----------------------------------------------------------------------------------------------------------------+
++-------------+----------------------------------------------------------------------------------------------------+
+|int          |:ref:`ProbeCount<classwellfired_profile_probes_probehashset_1aecf45fa9a8b810f9937a856fbc63d111>`    |
++-------------+----------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -29,12 +29,12 @@ Public Methods
 |bool         |:ref:`RemoveProbe<classwellfired_profile_probes_probehashset_1aa4b859a6c9e838c9ba5a679a9ce6aff2>` **(** :ref:`IProbe<interfacewellfired_profile_probes_iprobe>` probe **)**   |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_probes_probehashset_1aecf45fa9a8b810f9937a856fbc63d111:
 
-- int **ProbeCount** **(**  **)**
+- int **ProbeCount** 
 
 .. _classwellfired_profile_probes_probehashset_1a25ffc8be18ea9beb193505f6d8771e36:
 

@@ -16,9 +16,9 @@ Description
 Public Properties
 ------------------
 
-+--------------+---------------------------------------------------------------------------------------------------------------------------------------------+
-|const float   |:ref:`ReferenceSize<classwellfired_profile_profileprocessor_visual_graph_graphcontroller_1ac456e39c293bd0006393342a4c90d088>` **(**  **)**   |
-+--------------+---------------------------------------------------------------------------------------------------------------------------------------------+
++--------------+---------------------------------------------------------------------------------------------------------------------------------+
+|const float   |:ref:`ReferenceSize<classwellfired_profile_profileprocessor_visual_graph_graphcontroller_1ac456e39c293bd0006393342a4c90d088>`    |
++--------------+---------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -33,12 +33,12 @@ Public Methods
 |void         |:ref:`DrawPoint<classwellfired_profile_profileprocessor_visual_graph_graphcontroller_1a62011a0490de3e3b857ebf5cb997178f>` **(** :ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>` point, :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>` color **)**                                                                                                                                                                      |
 +-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_visual_graph_graphcontroller_1ac456e39c293bd0006393342a4c90d088:
 
-- const float **ReferenceSize** **(**  **)**
+- const float **ReferenceSize** 
 
 .. _classwellfired_profile_profileprocessor_visual_graph_graphcontroller_1a4d93b1bab79b4fde1126350bbaf96f74:
 

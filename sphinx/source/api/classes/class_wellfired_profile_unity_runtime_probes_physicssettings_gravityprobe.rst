@@ -20,8 +20,8 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_physicssettings_gravityprobe_1ae5e11acb0f252195aa1bb64f1807d6f5>` **(**  **)**   |
 +-------------+-----------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_physicssettings_gravityprobe_1ae5e11acb0f252195aa1bb64f1807d6f5:
 

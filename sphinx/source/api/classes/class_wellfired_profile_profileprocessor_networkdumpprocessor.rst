@@ -16,18 +16,18 @@ A custom Processor that will dump your data over a network.
 Public Methods
 ---------------
 
-+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|             |:ref:`NetworkDumpProcessor<classwellfired_profile_profileprocessor_networkdumpprocessor_1aed353238473b34a74b9848d557beb0f5>` **(** string address, Protocol protocol = Protocol.TCP **)**                                  |
-+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|void         |:ref:`RecordingStarted<classwellfired_profile_profileprocessor_networkdumpprocessor_1a4914425d6ebf6cf98de882b4c9525543>` **(** :ref:`ProbeRecorder<classwellfired_profile_probes_proberecorder>` [] probeRecorders **)**   |
-+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|void         |:ref:`RecordingUpdated<classwellfired_profile_profileprocessor_networkdumpprocessor_1a414f88b93778d02edb35da3520655796>` **(**  **)**                                                                                      |
-+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|void         |:ref:`RecordingStopped<classwellfired_profile_profileprocessor_networkdumpprocessor_1a4387ff64c24004b5fe3e135bdc6e5ca4>` **(**  **)**                                                                                      |
-+-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|             |:ref:`NetworkDumpProcessor<classwellfired_profile_profileprocessor_networkdumpprocessor_1aed353238473b34a74b9848d557beb0f5>` **(** string address, Protocol protocol = Protocol.TCP **)**                                 |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|void         |:ref:`RecordingStarted<classwellfired_profile_profileprocessor_networkdumpprocessor_1a4914425d6ebf6cf98de882b4c9525543>` **(** :ref:`ProbeRecorder<classwellfired_profile_probes_proberecorder>`[] probeRecorders **)**   |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|void         |:ref:`RecordingUpdated<classwellfired_profile_profileprocessor_networkdumpprocessor_1a414f88b93778d02edb35da3520655796>` **(**  **)**                                                                                     |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|void         |:ref:`RecordingStopped<classwellfired_profile_profileprocessor_networkdumpprocessor_1a4387ff64c24004b5fe3e135bdc6e5ca4>` **(**  **)**                                                                                     |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_networkdumpprocessor_1aed353238473b34a74b9848d557beb0f5:
 
@@ -47,7 +47,7 @@ Method Breakdown
         
 .. _classwellfired_profile_profileprocessor_networkdumpprocessor_1a4914425d6ebf6cf98de882b4c9525543:
 
-- void **RecordingStarted** **(** :ref:`ProbeRecorder<classwellfired_profile_probes_proberecorder>` [] probeRecorders **)**
+- void **RecordingStarted** **(** :ref:`ProbeRecorder<classwellfired_profile_probes_proberecorder>`[] probeRecorders **)**
 
     **Description**
 

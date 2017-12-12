@@ -20,8 +20,8 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_graphicsettings_particles_billboardfacecamerapositionprobe_1a528b5768221acb71cafb3eecdbe5f403>` **(**  **)**   |
 +-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_particles_billboardfacecamerapositionprobe_1a528b5768221acb71cafb3eecdbe5f403:
 

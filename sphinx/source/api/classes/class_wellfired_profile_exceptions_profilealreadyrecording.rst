@@ -13,14 +13,14 @@ This exception will be called if you've already attempted to start recording wit
 Public Properties
 ------------------
 
-+------------------+----------------------------------------------------------------------------------------------------------------------------+
-|override string   |:ref:`Message<classwellfired_profile_exceptions_profilealreadyrecording_1a7e3c15b30442c811b5dfa8ef80a61133>` **(**  **)**   |
-+------------------+----------------------------------------------------------------------------------------------------------------------------+
++------------------+----------------------------------------------------------------------------------------------------------------+
+|override string   |:ref:`Message<classwellfired_profile_exceptions_profilealreadyrecording_1a7e3c15b30442c811b5dfa8ef80a61133>`    |
++------------------+----------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_exceptions_profilealreadyrecording_1a7e3c15b30442c811b5dfa8ef80a61133:
 
-- override string **Message** **(**  **)**
+- override string **Message** 
 

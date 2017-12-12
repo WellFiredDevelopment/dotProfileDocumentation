@@ -20,8 +20,8 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_graphicsettings_maximumlodlevelprobe_1afbf080690f5eb9101e57a6aa73377c1d>` **(**  **)**   |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_maximumlodlevelprobe_1afbf080690f5eb9101e57a6aa73377c1d:
 

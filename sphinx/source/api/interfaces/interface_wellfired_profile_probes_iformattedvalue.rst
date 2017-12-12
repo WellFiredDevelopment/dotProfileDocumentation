@@ -17,8 +17,8 @@ Public Methods
 |string       |:ref:`FormattedValue<interfacewellfired_profile_probes_iformattedvalue_1af61cebdfc5f6d291d313fc4c579535da>` **(** object value **)**   |
 +-------------+---------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_probes_iformattedvalue_1af61cebdfc5f6d291d313fc4c579535da:
 

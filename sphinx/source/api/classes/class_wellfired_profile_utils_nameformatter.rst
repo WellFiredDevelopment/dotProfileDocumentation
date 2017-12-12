@@ -17,8 +17,8 @@ Public Static Methods
 |string       |:ref:`Nicify<classwellfired_profile_utils_nameformatter_1a1f3e2d346e7485cbd7f08b1d43d5a6fc>` **(** string originalName **)**   |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_utils_nameformatter_1a1f3e2d346e7485cbd7f08b1d43d5a6fc:
 

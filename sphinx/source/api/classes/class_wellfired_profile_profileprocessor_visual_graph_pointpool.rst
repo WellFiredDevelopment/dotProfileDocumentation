@@ -21,8 +21,8 @@ Public Methods
 |void                                                                                  |:ref:`RecyclePoint<classwellfired_profile_profileprocessor_visual_graph_pointpool_1af1fa300109cb531d4d439daec975511d>` **(** :ref:`IRectangle<interfacewellfired_profile_profileprocessor_visual_ui_irectangle>` point **)**                                                                                                                                                                               |
 +--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_visual_graph_pointpool_1aee4e03f9b4987dff7586161f977df061:
 

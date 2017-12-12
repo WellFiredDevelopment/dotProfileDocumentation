@@ -20,8 +20,8 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_timesettings_timescaleprobe_1a989f120dc7c8b7998b0602716098cac9>` **(**  **)**   |
 +-------------+----------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_timesettings_timescaleprobe_1a989f120dc7c8b7998b0602716098cac9:
 

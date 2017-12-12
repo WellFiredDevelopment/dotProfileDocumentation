@@ -22,8 +22,8 @@ Public Methods
 |string       |:ref:`FormattedValue<classwellfired_profile_unity_runtime_probes_graphicsettings_texture_anisotropicfilteringprobe_1aeb9c6a27721589cf82402ceb59f2b959>` **(** object value **)**   |
 +-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_texture_anisotropicfilteringprobe_1a305cbe38d5b60ef293e7343562e4d9d9:
 

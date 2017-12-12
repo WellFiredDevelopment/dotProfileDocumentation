@@ -13,23 +13,23 @@ Description
 
 
 
-event
-------
+Events
+-------
 
-+-------------+---------------------------------------------------------------------------------------------------------------------------------+
-|Action       |:ref:`OnGameStart<classwellfired_profile_unity_runtime_utils_gameeventsender_1a3f14499005a7ef583e60bf44530e6192>` **(**  **)**   |
-+-------------+---------------------------------------------------------------------------------------------------------------------------------+
-|Action       |:ref:`OnGameEnd<classwellfired_profile_unity_runtime_utils_gameeventsender_1a9735ed9c760a84de2ce49626fa169375>` **(**  **)**     |
-+-------------+---------------------------------------------------------------------------------------------------------------------------------+
++-------------+---------------------------------------------------------------------------------------------------------------------+
+|Action       |:ref:`OnGameStart<classwellfired_profile_unity_runtime_utils_gameeventsender_1a3f14499005a7ef583e60bf44530e6192>`    |
++-------------+---------------------------------------------------------------------------------------------------------------------+
+|Action       |:ref:`OnGameEnd<classwellfired_profile_unity_runtime_utils_gameeventsender_1a9735ed9c760a84de2ce49626fa169375>`      |
++-------------+---------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_utils_gameeventsender_1a3f14499005a7ef583e60bf44530e6192:
 
-- Action **OnGameStart** **(**  **)**
+- Action **OnGameStart** 
 
 .. _classwellfired_profile_unity_runtime_utils_gameeventsender_1a9735ed9c760a84de2ce49626fa169375:
 
-- Action **OnGameEnd** **(**  **)**
+- Action **OnGameEnd** 
 

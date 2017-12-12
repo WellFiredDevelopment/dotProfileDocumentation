@@ -27,8 +27,8 @@ Public Methods
 |void         |:ref:`ProcessData<interfacewellfired_profile_iprofile_1a009f3be1178abab7390c3571221f0f75>` **(** :ref:`IProfileProcessor<interfacewellfired_profile_profileprocessor_iprofileprocessor>` processor **)**                                                                                                      |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_iprofile_1aee366237f48ae0bfc0afe49ac587583c:
 

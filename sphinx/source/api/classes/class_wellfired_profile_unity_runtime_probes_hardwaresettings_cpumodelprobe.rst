@@ -16,9 +16,9 @@ Description
 Public Properties
 ------------------
 
-+-------------+------------------------------------------------------------------------------------------------------------------------------------------+
-|string       |:ref:`Name<classwellfired_profile_unity_runtime_probes_hardwaresettings_cpumodelprobe_1a7eb522a5967733988ddb73b907f34ee0>` **(**  **)**   |
-+-------------+------------------------------------------------------------------------------------------------------------------------------------------+
++-------------+------------------------------------------------------------------------------------------------------------------------------+
+|string       |:ref:`Name<classwellfired_profile_unity_runtime_probes_hardwaresettings_cpumodelprobe_1a7eb522a5967733988ddb73b907f34ee0>`    |
++-------------+------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -27,12 +27,12 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_hardwaresettings_cpumodelprobe_1a55bcb03eb2255632addfed66434a9726>` **(**  **)**   |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_hardwaresettings_cpumodelprobe_1a7eb522a5967733988ddb73b907f34ee0:
 
-- string **Name** **(**  **)**
+- string **Name** 
 
 .. _classwellfired_profile_unity_runtime_probes_hardwaresettings_cpumodelprobe_1a55bcb03eb2255632addfed66434a9726:
 

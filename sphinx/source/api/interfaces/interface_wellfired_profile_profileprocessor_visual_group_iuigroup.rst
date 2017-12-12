@@ -13,9 +13,9 @@ Description
 Properties
 -----------
 
-+-------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
-|:ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>`   |:ref:`Size<interfacewellfired_profile_profileprocessor_visual_group_iuigroup_1a271e9f6af30cf26812cc83445a3fa604>` **(**  **)**   |
-+-------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------+
++-------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
+|:ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>`   |:ref:`Size<interfacewellfired_profile_profileprocessor_visual_group_iuigroup_1a271e9f6af30cf26812cc83445a3fa604>` **{** get; set; **}**   |
++-------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -26,12 +26,12 @@ Public Methods
 |object       |:ref:`GetTransform<interfacewellfired_profile_profileprocessor_visual_group_iuigroup_1a65d57fd26ed7e2ac6cbdfe4537bd7817>` **(**  **)**   |
 +-------------+-----------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_profileprocessor_visual_group_iuigroup_1a271e9f6af30cf26812cc83445a3fa604:
 
-- :ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>` **Size** **(**  **)**
+- :ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>` **Size** **{** get; set; **}**
 
 .. _interfacewellfired_profile_profileprocessor_visual_group_iuigroup_1abde992d3c93fe1657afa20a12ab17c20:
 

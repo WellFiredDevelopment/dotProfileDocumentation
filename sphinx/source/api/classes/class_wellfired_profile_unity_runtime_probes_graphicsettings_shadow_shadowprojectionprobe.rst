@@ -22,8 +22,8 @@ Public Methods
 |string       |:ref:`FormattedValue<classwellfired_profile_unity_runtime_probes_graphicsettings_shadow_shadowprojectionprobe_1a2b9eb4535df55069472657510d2e607f>` **(** object value **)**   |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_shadow_shadowprojectionprobe_1ae9d13a08c75a15a320cb39174ce309ed:
 

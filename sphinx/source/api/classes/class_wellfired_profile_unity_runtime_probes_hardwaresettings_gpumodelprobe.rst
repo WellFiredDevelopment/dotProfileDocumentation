@@ -16,9 +16,9 @@ Description
 Public Properties
 ------------------
 
-+-------------+------------------------------------------------------------------------------------------------------------------------------------------+
-|string       |:ref:`Name<classwellfired_profile_unity_runtime_probes_hardwaresettings_gpumodelprobe_1a620f40153bcb59bd2845fb9a5d346a39>` **(**  **)**   |
-+-------------+------------------------------------------------------------------------------------------------------------------------------------------+
++-------------+------------------------------------------------------------------------------------------------------------------------------+
+|string       |:ref:`Name<classwellfired_profile_unity_runtime_probes_hardwaresettings_gpumodelprobe_1a620f40153bcb59bd2845fb9a5d346a39>`    |
++-------------+------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -27,12 +27,12 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_hardwaresettings_gpumodelprobe_1a25a425cccd85395eb23723622f41cb55>` **(**  **)**   |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_hardwaresettings_gpumodelprobe_1a620f40153bcb59bd2845fb9a5d346a39:
 
-- string **Name** **(**  **)**
+- string **Name** 
 
 .. _classwellfired_profile_unity_runtime_probes_hardwaresettings_gpumodelprobe_1a25a425cccd85395eb23723622f41cb55:
 

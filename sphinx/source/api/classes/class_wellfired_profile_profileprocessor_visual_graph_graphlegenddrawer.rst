@@ -21,8 +21,8 @@ Public Methods
 |void         |:ref:`DrawColorLegend<classwellfired_profile_profileprocessor_visual_graph_graphlegenddrawer_1ab4cb8da26e15726a6002d76560cc752d>` **(** :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>` color, string label **)**                                                                                                                                |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_visual_graph_graphlegenddrawer_1a1d00daf6001c6b6266e339602b1f5455:
 

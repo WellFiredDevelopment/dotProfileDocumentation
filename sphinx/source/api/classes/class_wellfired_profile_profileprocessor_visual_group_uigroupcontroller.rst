@@ -16,11 +16,11 @@ Description
 public-static-attrib
 ---------------------
 
-+----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-|readonly :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>`   |:ref:`OddLineColor<classwellfired_profile_profileprocessor_visual_group_uigroupcontroller_1a8e5e5a0165f87686c885dff4e8146790>` **(**  **)**    |
-+----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
-|readonly :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>`   |:ref:`PairLineColor<classwellfired_profile_profileprocessor_visual_group_uigroupcontroller_1a388353fdf84d61393a31285246e7f4b7>` **(**  **)**   |
-+----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+|readonly :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>`   |:ref:`OddLineColor<classwellfired_profile_profileprocessor_visual_group_uigroupcontroller_1a8e5e5a0165f87686c885dff4e8146790>`     |
++----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
+|readonly :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>`   |:ref:`PairLineColor<classwellfired_profile_profileprocessor_visual_group_uigroupcontroller_1a388353fdf84d61393a31285246e7f4b7>`    |
++----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -33,16 +33,16 @@ Public Methods
 |void         |:ref:`AddProbeRecorders<classwellfired_profile_profileprocessor_visual_group_uigroupcontroller_1ad3ba9167786228b260bd3c3e77d5fef3>` **(** IEnumerable< :ref:`ProbeRecorder<classwellfired_profile_probes_proberecorder>` > enumerableProbeRecorders **)**                                                                                                                                                                                                                                                                             |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_visual_group_uigroupcontroller_1a8e5e5a0165f87686c885dff4e8146790:
 
-- readonly :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>` **OddLineColor** **(**  **)**
+- readonly :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>` **OddLineColor** 
 
 .. _classwellfired_profile_profileprocessor_visual_group_uigroupcontroller_1a388353fdf84d61393a31285246e7f4b7:
 
-- readonly :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>` **PairLineColor** **(**  **)**
+- readonly :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>` **PairLineColor** 
 
 .. _classwellfired_profile_profileprocessor_visual_group_uigroupcontroller_1a71364615a9a1e4fda2e98894623d9477:
 

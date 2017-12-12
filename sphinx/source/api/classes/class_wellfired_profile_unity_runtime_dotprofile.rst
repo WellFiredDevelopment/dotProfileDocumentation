@@ -21,8 +21,8 @@ Public Static Methods
 |void                                                   |:ref:`ToggleLog<classwellfired_profile_unity_runtime_dotprofile_1a071a6aa2be8ce836ffa4242815d4426a>` **(** bool enabled **)**   |
 +-------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_dotprofile_1a3a6e3b7095890eb4274adb0098d0b150:
 

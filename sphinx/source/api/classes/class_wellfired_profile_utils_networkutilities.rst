@@ -17,8 +17,8 @@ Public Static Methods
 |bool         |:ref:`IsIpValid<classwellfired_profile_utils_networkutilities_1a59ce26e48d2d3236591f047b67ba33db>` **(** string ip **)**   |
 +-------------+---------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_utils_networkutilities_1a59ce26e48d2d3236591f047b67ba33db:
 

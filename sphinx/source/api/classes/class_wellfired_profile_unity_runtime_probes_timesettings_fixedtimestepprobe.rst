@@ -22,8 +22,8 @@ Public Methods
 |string       |:ref:`FormattedValue<classwellfired_profile_unity_runtime_probes_timesettings_fixedtimestepprobe_1a38f8c985ee2f71edf27b82e858fd58a6>` **(** object value **)**   |
 +-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_timesettings_fixedtimestepprobe_1af97c6f72b39f517a8407277b525d3439:
 

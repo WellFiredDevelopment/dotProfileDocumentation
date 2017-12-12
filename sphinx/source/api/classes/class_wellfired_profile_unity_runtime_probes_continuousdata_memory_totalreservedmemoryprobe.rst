@@ -22,8 +22,8 @@ Public Methods
 |string       |:ref:`FormattedValue<classwellfired_profile_unity_runtime_probes_continuousdata_memory_totalreservedmemoryprobe_1a7f66f3759f2e4b8062fb07acfbc4bf3a>` **(** object value **)**   |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_continuousdata_memory_totalreservedmemoryprobe_1a61f67185f9f702e9eff05aa83e4fc19f:
 

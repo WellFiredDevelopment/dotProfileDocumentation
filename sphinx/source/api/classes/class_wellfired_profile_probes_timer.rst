@@ -22,8 +22,8 @@ Public Methods
 |long         |:ref:`GetTime<classwellfired_profile_probes_timer_1af7d70830b8c52bdec20fbda90de05122>` **(**  **)**   |
 +-------------+------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_probes_timer_1a98fb8d11ede4d0d84907a24db5efdf79:
 

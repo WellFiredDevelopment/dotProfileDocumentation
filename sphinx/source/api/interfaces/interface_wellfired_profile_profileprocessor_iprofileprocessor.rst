@@ -13,20 +13,20 @@ Implement this interface if you want to provide custom profile processors. For e
 Public Methods
 ---------------
 
-+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|void         |:ref:`RecordingStarted<interfacewellfired_profile_profileprocessor_iprofileprocessor_1a63014de04422ce240af7262d991eb247>` **(** :ref:`ProbeRecorder<classwellfired_profile_probes_proberecorder>` [] probeRecorders **)**   |
-+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|void         |:ref:`RecordingUpdated<interfacewellfired_profile_profileprocessor_iprofileprocessor_1a1beee3dc6428a9d9a19fba7adbfbf2fa>` **(**  **)**                                                                                      |
-+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|void         |:ref:`RecordingStopped<interfacewellfired_profile_profileprocessor_iprofileprocessor_1a02e42a69827f623c5a917a2a917fc846>` **(**  **)**                                                                                      |
-+-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|void         |:ref:`RecordingStarted<interfacewellfired_profile_profileprocessor_iprofileprocessor_1a63014de04422ce240af7262d991eb247>` **(** :ref:`ProbeRecorder<classwellfired_profile_probes_proberecorder>`[] probeRecorders **)**   |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|void         |:ref:`RecordingUpdated<interfacewellfired_profile_profileprocessor_iprofileprocessor_1a1beee3dc6428a9d9a19fba7adbfbf2fa>` **(**  **)**                                                                                     |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|void         |:ref:`RecordingStopped<interfacewellfired_profile_profileprocessor_iprofileprocessor_1a02e42a69827f623c5a917a2a917fc846>` **(**  **)**                                                                                     |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_profileprocessor_iprofileprocessor_1a63014de04422ce240af7262d991eb247:
 
-- void **RecordingStarted** **(** :ref:`ProbeRecorder<classwellfired_profile_probes_proberecorder>` [] probeRecorders **)**
+- void **RecordingStarted** **(** :ref:`ProbeRecorder<classwellfired_profile_probes_proberecorder>`[] probeRecorders **)**
 
     **Description**
 

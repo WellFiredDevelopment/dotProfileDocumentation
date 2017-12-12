@@ -20,8 +20,8 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_physicssettings_sleepthresholdprobe_1ab4bac131c0709c34f6d40452fdf30f85>` **(**  **)**   |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_physicssettings_sleepthresholdprobe_1ab4bac131c0709c34f6d40452fdf30f85:
 

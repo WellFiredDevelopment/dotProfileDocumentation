@@ -13,18 +13,18 @@ Description
 Public Properties
 ------------------
 
-+-------------+------------------------------------------------------------------------------------------------------------------+
-|bool         |:ref:`Running<classwellfired_profile_unity_runtime_utils_task_1a2f5ff6b7f9a17d27ec7a0f4857ee739b>` **(**  **)**   |
-+-------------+------------------------------------------------------------------------------------------------------------------+
-|bool         |:ref:`Paused<classwellfired_profile_unity_runtime_utils_task_1a4d9284c5898a13699dff04dd149521c7>` **(**  **)**    |
-+-------------+------------------------------------------------------------------------------------------------------------------+
++-------------+------------------------------------------------------------------------------------------------------+
+|bool         |:ref:`Running<classwellfired_profile_unity_runtime_utils_task_1a2f5ff6b7f9a17d27ec7a0f4857ee739b>`    |
++-------------+------------------------------------------------------------------------------------------------------+
+|bool         |:ref:`Paused<classwellfired_profile_unity_runtime_utils_task_1a4d9284c5898a13699dff04dd149521c7>`     |
++-------------+------------------------------------------------------------------------------------------------------+
 
-event
-------
+Events
+-------
 
-+------------------+-------------------------------------------------------------------------------------------------------------------+
-|FinishedHandler   |:ref:`Finished<classwellfired_profile_unity_runtime_utils_task_1a154244a6f85f6927c49f907a1d58a2c2>` **(**  **)**   |
-+------------------+-------------------------------------------------------------------------------------------------------------------+
++------------------+-------------------------------------------------------------------------------------------------------+
+|FinishedHandler   |:ref:`Finished<classwellfired_profile_unity_runtime_utils_task_1a154244a6f85f6927c49f907a1d58a2c2>`    |
++------------------+-------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -45,20 +45,20 @@ Public Methods
 |IEnumerator     |:ref:`CallWrapper<classwellfired_profile_unity_runtime_utils_task_1adb1cb60d98ee50e0308b7f51add2dca8>` **(**  **)**                                |
 +----------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_utils_task_1a2f5ff6b7f9a17d27ec7a0f4857ee739b:
 
-- bool **Running** **(**  **)**
+- bool **Running** 
 
 .. _classwellfired_profile_unity_runtime_utils_task_1a4d9284c5898a13699dff04dd149521c7:
 
-- bool **Paused** **(**  **)**
+- bool **Paused** 
 
 .. _classwellfired_profile_unity_runtime_utils_task_1a154244a6f85f6927c49f907a1d58a2c2:
 
-- FinishedHandler **Finished** **(**  **)**
+- FinishedHandler **Finished** 
 
 .. _classwellfired_profile_unity_runtime_utils_task_1a3600922244ce731e03f961dfd1eca6d2:
 

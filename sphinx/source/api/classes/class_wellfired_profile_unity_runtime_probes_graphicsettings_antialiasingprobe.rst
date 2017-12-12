@@ -22,8 +22,8 @@ Public Methods
 |string       |:ref:`FormattedValue<classwellfired_profile_unity_runtime_probes_graphicsettings_antialiasingprobe_1a0d309505ed47f4731349574e28a190dd>` **(** object value **)**   |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_antialiasingprobe_1a4cb507f191ac99d7d48aa2a3df722300:
 

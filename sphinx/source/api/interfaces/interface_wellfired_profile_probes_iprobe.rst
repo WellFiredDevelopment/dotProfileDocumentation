@@ -17,8 +17,8 @@ Public Methods
 |object       |:ref:`Probe<interfacewellfired_profile_probes_iprobe_1ab1a581604b34ce97d873b0ac80edade1>` **(**  **)**   |
 +-------------+---------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_probes_iprobe_1ab1a581604b34ce97d873b0ac80edade1:
 

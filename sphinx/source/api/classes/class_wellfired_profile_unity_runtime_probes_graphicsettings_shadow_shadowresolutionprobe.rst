@@ -20,8 +20,8 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_graphicsettings_shadow_shadowresolutionprobe_1abbeaa0859fc3747408c5c6ed33861edb>` **(**  **)**   |
 +-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_shadow_shadowresolutionprobe_1abbeaa0859fc3747408c5c6ed33861edb:
 

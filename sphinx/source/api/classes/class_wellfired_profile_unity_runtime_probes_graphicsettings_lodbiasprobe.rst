@@ -20,8 +20,8 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_graphicsettings_lodbiasprobe_1a9708370d5f897ffcbd401557c8ee74e0>` **(**  **)**   |
 +-------------+-----------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_lodbiasprobe_1a9708370d5f897ffcbd401557c8ee74e0:
 

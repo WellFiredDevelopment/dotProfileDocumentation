@@ -23,8 +23,8 @@ Public Methods
 |void         |:ref:`LogError<classwellfired_profile_unity_runtime_utils_profilelogger_1a122ef136fb4d56b5dcd132a1d9fabdd5>` **(** string message **)**     |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_utils_profilelogger_1a0b8b9480ebcbb14a191e216731894149:
 

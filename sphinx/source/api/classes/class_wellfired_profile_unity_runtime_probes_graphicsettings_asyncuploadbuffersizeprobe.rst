@@ -20,8 +20,8 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_graphicsettings_asyncuploadbuffersizeprobe_1a52bc8a3d54efec88856c063af2241828>` **(**  **)**   |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_asyncuploadbuffersizeprobe_1a52bc8a3d54efec88856c063af2241828:
 

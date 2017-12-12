@@ -19,8 +19,8 @@ Public Methods
 |:ref:`IText<interfacewellfired_profile_profileprocessor_visual_ui_itext>`             |:ref:`GetText<interfacewellfired_profile_profileprocessor_visual_ui_ivisualobjectfactory_1ae45fa7fb500409add7ed6a577bbd6677>` **(**  **)**        |
 +--------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_profileprocessor_visual_ui_ivisualobjectfactory_1a2c84531d1615e9af07c6bb6fb460fc3c:
 

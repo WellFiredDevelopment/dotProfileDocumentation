@@ -19,8 +19,8 @@ Public Methods
 |void         |:ref:`DrawPoint<classwellfired_profile_profileprocessor_visual_graph_pointdrawer_1ac146dee2d83daed8dd4cc3ab3fd916bc>` **(** int x, int y, :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>` color **)**                                                                                                                      |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_visual_graph_pointdrawer_1adee8a7361e87001ec4606c87c7f350b0:
 

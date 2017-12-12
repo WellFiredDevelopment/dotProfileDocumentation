@@ -27,8 +27,8 @@ Public Methods
 |:ref:`ILogger<interfacewellfired_profile_utils_ilogger>`                                            |:ref:`GetLogger<interfacewellfired_profile_iruntimeconnector_1a09421dd11917e7650fb58f1dd61667b9>` **(**  **)**             |
 +----------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_iruntimeconnector_1a64276cdd2a71c4a7cd265184acbbbd74:
 

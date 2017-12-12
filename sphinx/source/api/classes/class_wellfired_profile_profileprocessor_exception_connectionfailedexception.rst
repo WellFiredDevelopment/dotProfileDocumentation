@@ -13,9 +13,9 @@ Description
 Public Properties
 ------------------
 
-+------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
-|override string   |:ref:`Message<classwellfired_profile_profileprocessor_exception_connectionfailedexception_1aef03aedfbc9e3d03f05e5dcba907a9fc>` **(**  **)**   |
-+------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
++------------------+----------------------------------------------------------------------------------------------------------------------------------+
+|override string   |:ref:`Message<classwellfired_profile_profileprocessor_exception_connectionfailedexception_1aef03aedfbc9e3d03f05e5dcba907a9fc>`    |
++------------------+----------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -24,12 +24,12 @@ Public Methods
 |             |:ref:`ConnectionFailedException<classwellfired_profile_profileprocessor_exception_connectionfailedexception_1adafa10e2befbdb83020c890ce2d38f22>` **(** IPAddress address, int port **)**   |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_exception_connectionfailedexception_1aef03aedfbc9e3d03f05e5dcba907a9fc:
 
-- override string **Message** **(**  **)**
+- override string **Message** 
 
 .. _classwellfired_profile_profileprocessor_exception_connectionfailedexception_1adafa10e2befbdb83020c890ce2d38f22:
 

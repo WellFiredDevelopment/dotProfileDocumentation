@@ -16,9 +16,9 @@ Description
 Public Properties
 ------------------
 
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-|string       |:ref:`Name<classwellfired_profile_unity_runtime_probes_graphicsettings_vsynccountprobe_1a7b29aa672d629577c5e90d133640285f>` **(**  **)**   |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------+
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+|string       |:ref:`Name<classwellfired_profile_unity_runtime_probes_graphicsettings_vsynccountprobe_1a7b29aa672d629577c5e90d133640285f>`    |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -29,12 +29,12 @@ Public Methods
 |string       |:ref:`FormattedValue<classwellfired_profile_unity_runtime_probes_graphicsettings_vsynccountprobe_1a05abe98b7e2a7862f8a1a9b561b4c845>` **(** object value **)**   |
 +-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_vsynccountprobe_1a7b29aa672d629577c5e90d133640285f:
 
-- string **Name** **(**  **)**
+- string **Name** 
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_vsynccountprobe_1a4a3f96da3e2785e4ec082cd554516192:
 

@@ -16,14 +16,14 @@ Description
 Properties
 -----------
 
-+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
-|Func< bool >   |:ref:`DefaultFunction<classwellfired_profile_unity_runtime_profileprocessor_visual_ui_defaultuitoggler_1ab1aeefd89475542f6eb2b2f70c45f4c4>` **(**  **)**   |
-+---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|Func< bool >   |:ref:`DefaultFunction<classwellfired_profile_unity_runtime_profileprocessor_visual_ui_defaultuitoggler_1ab1aeefd89475542f6eb2b2f70c45f4c4>` **{** get; set; **}**   |
++---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_profileprocessor_visual_ui_defaultuitoggler_1ab1aeefd89475542f6eb2b2f70c45f4c4:
 
-- Func< bool > **DefaultFunction** **(**  **)**
+- Func< bool > **DefaultFunction** **{** get; set; **}**
 

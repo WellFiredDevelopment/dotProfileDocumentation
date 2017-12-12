@@ -13,13 +13,13 @@ Description
 Properties
 -----------
 
-+-------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+
-|:ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>`   |:ref:`Color<interfacewellfired_profile_profileprocessor_visual_ui_irectangle_1afe2fba57f061ffa1dacb960f4333c251>` **(**  **)**      |
-+-------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+
-|:ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>`   |:ref:`Size<interfacewellfired_profile_profileprocessor_visual_ui_irectangle_1a7c4aa81aeb973191d14ef013962e02dc>` **(**  **)**       |
-+-------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+
-|:ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>`   |:ref:`Position<interfacewellfired_profile_profileprocessor_visual_ui_irectangle_1a9ed4092ffdacc2993c01bb9dd778519d>` **(**  **)**   |
-+-------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+
++-------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+|:ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>`   |:ref:`Color<interfacewellfired_profile_profileprocessor_visual_ui_irectangle_1afe2fba57f061ffa1dacb960f4333c251>` **{** get; set; **}**      |
++-------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+|:ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>`   |:ref:`Size<interfacewellfired_profile_profileprocessor_visual_ui_irectangle_1a7c4aa81aeb973191d14ef013962e02dc>` **{** get; set; **}**       |
++-------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+|:ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>`   |:ref:`Position<interfacewellfired_profile_profileprocessor_visual_ui_irectangle_1a9ed4092ffdacc2993c01bb9dd778519d>` **{** get; set; **}**   |
++-------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -34,20 +34,20 @@ Public Methods
 |void         |:ref:`Deactivate<interfacewellfired_profile_profileprocessor_visual_ui_irectangle_1ac14fb27f1bae16b44fcacff0b5db8a1a>` **(**  **)**               |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_profileprocessor_visual_ui_irectangle_1afe2fba57f061ffa1dacb960f4333c251:
 
-- :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>` **Color** **(**  **)**
+- :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>` **Color** **{** get; set; **}**
 
 .. _interfacewellfired_profile_profileprocessor_visual_ui_irectangle_1a7c4aa81aeb973191d14ef013962e02dc:
 
-- :ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>` **Size** **(**  **)**
+- :ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>` **Size** **{** get; set; **}**
 
 .. _interfacewellfired_profile_profileprocessor_visual_ui_irectangle_1a9ed4092ffdacc2993c01bb9dd778519d:
 
-- :ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>` **Position** **(**  **)**
+- :ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>` **Position** **{** get; set; **}**
 
 .. _interfacewellfired_profile_profileprocessor_visual_ui_irectangle_1a1d994df9a1ebfe3d33be25bfcaf07370:
 

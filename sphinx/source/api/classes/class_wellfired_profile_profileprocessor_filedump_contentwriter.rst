@@ -21,8 +21,8 @@ Public Methods
 |void         |:ref:`WriteLine<classwellfired_profile_profileprocessor_filedump_contentwriter_1ab9b7a8fff93a9751d6b5ab07adefd379>` **(** string line **)**         |
 +-------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_filedump_contentwriter_1a5d8093e6013e9711c92fdc893bc2fbef:
 

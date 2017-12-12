@@ -13,14 +13,14 @@ Use this interface on a custom probe if you want to return a formatted name to t
 Properties
 -----------
 
-+-------------+----------------------------------------------------------------------------------------------------------------+
-|string       |:ref:`Name<interfacewellfired_profile_probes_iformattedname_1a82557b48aa7f8907b2dd1ba05113e7c9>` **(**  **)**   |
-+-------------+----------------------------------------------------------------------------------------------------------------+
++-------------+-------------------------------------------------------------------------------------------------------------------------+
+|string       |:ref:`Name<interfacewellfired_profile_probes_iformattedname_1a82557b48aa7f8907b2dd1ba05113e7c9>` **{** get; set; **}**   |
++-------------+-------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_probes_iformattedname_1a82557b48aa7f8907b2dd1ba05113e7c9:
 
-- string **Name** **(**  **)**
+- string **Name** **{** get; set; **}**
 

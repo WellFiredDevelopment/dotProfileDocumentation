@@ -13,26 +13,26 @@ Description
 Public Properties
 ------------------
 
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-|float        |:ref:`ScaleX<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a5b09a4fa7fe741fdf06e9e390d83d09a>` **(**  **)**            |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-|float        |:ref:`ScaleY<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a7271a9c8aaf2709cd41f70a4460a9e43>` **(**  **)**            |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-|float        |:ref:`MarkerXInterval<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1ad81c418d26b0e5a0cf98e2b510520e95>` **(**  **)**   |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-|float        |:ref:`MarkerYInterval<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a42fa5821950790a788ed3cfa924a339a>` **(**  **)**   |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-|string       |:ref:`XLabel<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a30e73d29374096fdd7739d11a70bce41>` **(**  **)**            |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------+
-|string       |:ref:`YLabel<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a1896877b7e3c1bd4191485f42a63aa8b>` **(**  **)**            |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------------+
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+|float        |:ref:`ScaleX<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a5b09a4fa7fe741fdf06e9e390d83d09a>`             |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+|float        |:ref:`ScaleY<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a7271a9c8aaf2709cd41f70a4460a9e43>`             |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+|float        |:ref:`MarkerXInterval<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1ad81c418d26b0e5a0cf98e2b510520e95>`    |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+|float        |:ref:`MarkerYInterval<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a42fa5821950790a788ed3cfa924a339a>`    |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+|string       |:ref:`XLabel<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a30e73d29374096fdd7739d11a70bce41>`             |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
+|string       |:ref:`YLabel<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a1896877b7e3c1bd4191485f42a63aa8b>`             |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a5b09a4fa7fe741fdf06e9e390d83d09a:
 
-- float **ScaleX** **(**  **)**
+- float **ScaleX** 
 
     **Description**
 
@@ -40,7 +40,7 @@ Method Breakdown
 
 .. _classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a7271a9c8aaf2709cd41f70a4460a9e43:
 
-- float **ScaleY** **(**  **)**
+- float **ScaleY** 
 
     **Description**
 
@@ -48,7 +48,7 @@ Method Breakdown
 
 .. _classwellfired_profile_profileprocessor_visual_graph_graphconfig_1ad81c418d26b0e5a0cf98e2b510520e95:
 
-- float **MarkerXInterval** **(**  **)**
+- float **MarkerXInterval** 
 
     **Description**
 
@@ -56,7 +56,7 @@ Method Breakdown
 
 .. _classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a42fa5821950790a788ed3cfa924a339a:
 
-- float **MarkerYInterval** **(**  **)**
+- float **MarkerYInterval** 
 
     **Description**
 
@@ -64,7 +64,7 @@ Method Breakdown
 
 .. _classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a30e73d29374096fdd7739d11a70bce41:
 
-- string **XLabel** **(**  **)**
+- string **XLabel** 
 
     **Description**
 
@@ -72,7 +72,7 @@ Method Breakdown
 
 .. _classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a1896877b7e3c1bd4191485f42a63aa8b:
 
-- string **YLabel** **(**  **)**
+- string **YLabel** 
 
     **Description**
 

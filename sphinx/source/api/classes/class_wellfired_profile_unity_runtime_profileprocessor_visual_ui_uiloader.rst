@@ -22,8 +22,8 @@ Public Methods
 |bool                                                                                                                 |:ref:`IsUILoaded<classwellfired_profile_unity_runtime_profileprocessor_visual_ui_uiloader_1aa9c201b93302fb7ac8fb8b50f3bb005b>` **(**  **)**   |
 +---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_profileprocessor_visual_ui_uiloader_1a11ccb2325aca38cabbf064e7ad9c4c3b:
 

@@ -24,8 +24,8 @@ Public Methods
 |void         |:ref:`Update<classwellfired_profile_unity_runtime_utils_taskmanager_1ad852c6b397138ea57c7d4ac2cab64159>` **(**  **)**   |
 +-------------+------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_utils_taskmanager_1a5538080b9066035176e5ff342b859000:
 

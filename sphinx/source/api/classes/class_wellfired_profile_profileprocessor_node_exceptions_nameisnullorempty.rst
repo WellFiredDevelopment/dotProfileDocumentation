@@ -13,14 +13,14 @@ Description
 Public Properties
 ------------------
 
-+------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
-|override string   |:ref:`Message<classwellfired_profile_profileprocessor_node_exceptions_nameisnullorempty_1afa8d82716f7ab23058a1a24c5b411723>` **(**  **)**   |
-+------------------+--------------------------------------------------------------------------------------------------------------------------------------------+
++------------------+--------------------------------------------------------------------------------------------------------------------------------+
+|override string   |:ref:`Message<classwellfired_profile_profileprocessor_node_exceptions_nameisnullorempty_1afa8d82716f7ab23058a1a24c5b411723>`    |
++------------------+--------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_node_exceptions_nameisnullorempty_1afa8d82716f7ab23058a1a24c5b411723:
 
-- override string **Message** **(**  **)**
+- override string **Message** 
 

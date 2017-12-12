@@ -21,8 +21,8 @@ Public Methods
 |void         |:ref:`DrawHorizontalLine<classwellfired_profile_profileprocessor_visual_graph_graphcanvasdrawer_1a9e6d87827fdd60eae612f06e368c3780>` **(** float scaleY, float interval **)**                                                                                                                                                                                                                  |
 +-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_visual_graph_graphcanvasdrawer_1af0b37f894e84a3b2fc994630be5aa96e:
 

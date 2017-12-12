@@ -21,8 +21,8 @@ Public Methods
 |:ref:`IUIController<interfacewellfired_profile_profileprocessor_visual_ui_iuicontroller>`   |:ref:`GetGraphController<interfacewellfired_profile_profileprocessor_visual_iobjectbuilder_1a45ef4e1b38ea4d32b09befa57e5455af>` **(** :ref:`IUIGraph<interfacewellfired_profile_profileprocessor_visual_group_iuigraph>` graph, :ref:`GraphConfig<classwellfired_profile_profileprocessor_visual_graph_graphconfig>` graphConfig, :ref:`IVisualObjectFactory<interfacewellfired_profile_profileprocessor_visual_ui_ivisualobjectfactory>` visualObjectFactory **)**   |
 +--------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_profileprocessor_visual_iobjectbuilder_1a156ce4c7517e7aae7a8a109e99e299db:
 

@@ -22,8 +22,8 @@ Public Methods
 |:ref:`IUIDataView<interfacewellfired_profile_profileprocessor_visual_group_iuidataview>`   |:ref:`Instantiate<classwellfired_profile_profileprocessor_visual_group_uidataviewinstantiator_1a210745f0d4bced2c03bef9ab62d21405>` **(**  **)**                                                                                                                                         |
 +-------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_visual_group_uidataviewinstantiator_1a15797e7846be36ff89690ff3b337d647:
 

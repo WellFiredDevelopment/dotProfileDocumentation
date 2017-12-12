@@ -26,8 +26,8 @@ Public Methods
 |override void   |:ref:`RecordingStopped<classwellfired_profile_profileprocessor_filestreamerprocessor_1a3d4bc6b69f409983d04c052406dfdc17>` **(**  **)**                       |
 +----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_filestreamerprocessor_1af65d93f76df4e779d1a298d6ac22032b:
 

@@ -23,8 +23,8 @@ Public Methods
 |void         |:ref:`LogError<interfacewellfired_profile_utils_ilogger_1abcf07b5b13d6495a17a4880bf04b305b>` **(** string message **)**     |
 +-------------+----------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_utils_ilogger_1ab71e41849ecc9ee184b29263de0b0783:
 

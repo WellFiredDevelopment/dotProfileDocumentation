@@ -13,11 +13,11 @@ Description
 Properties
 -----------
 
-+-------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-|int          |:ref:`SizeX<interfacewellfired_profile_profileprocessor_visual_graph_igraphdisplayer_1a5bda42caf31cf9309bbb042d4dd953cf>` **(**  **)**   |
-+-------------+-----------------------------------------------------------------------------------------------------------------------------------------+
-|int          |:ref:`SizeY<interfacewellfired_profile_profileprocessor_visual_graph_igraphdisplayer_1a4e44bddadb0fbeb3739850a42eca613d>` **(**  **)**   |
-+-------------+-----------------------------------------------------------------------------------------------------------------------------------------+
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+|int          |:ref:`SizeX<interfacewellfired_profile_profileprocessor_visual_graph_igraphdisplayer_1a5bda42caf31cf9309bbb042d4dd953cf>` **{** get; set; **}**   |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+|int          |:ref:`SizeY<interfacewellfired_profile_profileprocessor_visual_graph_igraphdisplayer_1a4e44bddadb0fbeb3739850a42eca613d>` **{** get; set; **}**   |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -32,16 +32,16 @@ Public Methods
 |void         |:ref:`TranslateCoordinate<interfacewellfired_profile_profileprocessor_visual_graph_igraphdisplayer_1ad473e40ee2e696f97e49fc1e435661b5>` **(** :ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>` vector **)**   |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_profileprocessor_visual_graph_igraphdisplayer_1a5bda42caf31cf9309bbb042d4dd953cf:
 
-- int **SizeX** **(**  **)**
+- int **SizeX** **{** get; set; **}**
 
 .. _interfacewellfired_profile_profileprocessor_visual_graph_igraphdisplayer_1a4e44bddadb0fbeb3739850a42eca613d:
 
-- int **SizeY** **(**  **)**
+- int **SizeY** **{** get; set; **}**
 
 .. _interfacewellfired_profile_profileprocessor_visual_graph_igraphdisplayer_1aa5ff5f03e2069083371a481f0f6aa0bc:
 

@@ -19,8 +19,8 @@ Public Methods
 |:ref:`ProfileConfig<classwellfired_profile_config_profileconfig>`   |:ref:`Load<classwellfired_profile_config_utils_profileconfigloader_1af05f8f66cdb1422e035ebdca4fdbd6a4>` **(** string configName **)**                                                                                                     |
 +--------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_config_utils_profileconfigloader_1af3a374bbb230962080332ce5188e7af4:
 

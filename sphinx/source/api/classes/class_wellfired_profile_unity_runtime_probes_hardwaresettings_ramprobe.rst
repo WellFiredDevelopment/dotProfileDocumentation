@@ -16,9 +16,9 @@ Description
 Public Properties
 ------------------
 
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------+
-|string       |:ref:`Name<classwellfired_profile_unity_runtime_probes_hardwaresettings_ramprobe_1a7c12840ef25bb380cd56a28723e82b59>` **(**  **)**   |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------------+
++-------------+-------------------------------------------------------------------------------------------------------------------------+
+|string       |:ref:`Name<classwellfired_profile_unity_runtime_probes_hardwaresettings_ramprobe_1a7c12840ef25bb380cd56a28723e82b59>`    |
++-------------+-------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -29,12 +29,12 @@ Public Methods
 |string       |:ref:`FormattedValue<classwellfired_profile_unity_runtime_probes_hardwaresettings_ramprobe_1ae32bc8b293d33a7083a2525866995231>` **(** object value **)**   |
 +-------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_hardwaresettings_ramprobe_1a7c12840ef25bb380cd56a28723e82b59:
 
-- string **Name** **(**  **)**
+- string **Name** 
 
 .. _classwellfired_profile_unity_runtime_probes_hardwaresettings_ramprobe_1a31f38f7045d126262b64fe10dc91be0e:
 

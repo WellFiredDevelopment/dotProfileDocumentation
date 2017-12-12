@@ -20,8 +20,8 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_graphicsettings_asyncuploadtimesliceprobe_1afb59d513b3b2af640c71817986cde5b9>` **(**  **)**   |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_asyncuploadtimesliceprobe_1afb59d513b3b2af640c71817986cde5b9:
 

@@ -16,16 +16,16 @@ Description
 Properties
 -----------
 
-+-------------+-----------------------------------------------------------------------------------------------------------------------+
-|string       |:ref:`Name<classwellfired_profile_profileprocessor_node_objectnode_1ae6d125d92f26c1198e5ebed7e6f58590>` **(**  **)**   |
-+-------------+-----------------------------------------------------------------------------------------------------------------------+
++-------------+--------------------------------------------------------------------------------------------------------------------------------+
+|string       |:ref:`Name<classwellfired_profile_profileprocessor_node_objectnode_1ae6d125d92f26c1198e5ebed7e6f58590>` **{** get; set; **}**   |
++-------------+--------------------------------------------------------------------------------------------------------------------------------+
 
 Public Properties
 ------------------
 
-+-------------+--------------------------------------------------------------------------------------------------------------------------------+
-|int          |:ref:`ChildrenCount<classwellfired_profile_profileprocessor_node_objectnode_1a2a7137aa9df0bfb03ccde4fcf0edce73>` **(**  **)**   |
-+-------------+--------------------------------------------------------------------------------------------------------------------------------+
++-------------+--------------------------------------------------------------------------------------------------------------------+
+|int          |:ref:`ChildrenCount<classwellfired_profile_profileprocessor_node_objectnode_1a2a7137aa9df0bfb03ccde4fcf0edce73>`    |
++-------------+--------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -42,16 +42,16 @@ Public Methods
 |:ref:`INode<interfacewellfired_profile_profileprocessor_node_inode>`                  |:ref:`GetChild<classwellfired_profile_profileprocessor_node_objectnode_1a0160a2f69a5a85fc511b948c14c073bd>` **(** string name **)**                                                                                    |
 +--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_node_objectnode_1ae6d125d92f26c1198e5ebed7e6f58590:
 
-- string **Name** **(**  **)**
+- string **Name** **{** get; set; **}**
 
 .. _classwellfired_profile_profileprocessor_node_objectnode_1a2a7137aa9df0bfb03ccde4fcf0edce73:
 
-- int **ChildrenCount** **(**  **)**
+- int **ChildrenCount** 
 
 .. _classwellfired_profile_profileprocessor_node_objectnode_1a425b2746de524228175d44c0f63f4908:
 

@@ -21,8 +21,8 @@ Public Static Methods
 |:ref:`INode<interfacewellfired_profile_profileprocessor_node_inode>`   |:ref:`ConvertToArrayNode<classwellfired_profile_profileprocessor_node_nodeconverter_1ad68a19dae3029290adce86ff051604bb>` **(** :ref:`TimeValueTable<classwellfired_profile_data_continousdata_timevaluetable>` timeValueTable **)**                 |
 +-----------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_node_nodeconverter_1ae25c530df27e58b504083226bad50087:
 

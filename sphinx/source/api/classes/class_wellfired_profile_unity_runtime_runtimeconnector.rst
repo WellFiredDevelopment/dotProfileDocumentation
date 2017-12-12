@@ -30,8 +30,8 @@ Public Methods
 |:ref:`ILogger<interfacewellfired_profile_utils_ilogger>`                                            |:ref:`GetLogger<classwellfired_profile_unity_runtime_runtimeconnector_1a5299849a466dc285c2916864064f6a2c>` **(**  **)**             |
 +----------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_runtimeconnector_1ad08a331414942e0d714f6d79bf20b25b:
 

@@ -20,8 +20,8 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_continuousdata_physics_activedynamicprobe_1a78e7fbfbac6e19dd2de9be62eb9951e8>` **(**  **)**   |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_continuousdata_physics_activedynamicprobe_1a78e7fbfbac6e19dd2de9be62eb9951e8:
 

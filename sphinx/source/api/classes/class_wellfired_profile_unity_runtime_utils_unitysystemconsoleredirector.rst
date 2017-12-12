@@ -17,8 +17,8 @@ Public Static Methods
 |void         |:ref:`Redirect<classwellfired_profile_unity_runtime_utils_unitysystemconsoleredirector_1a22348487abea4e1c4d3ffbd84c8fc7dd>` **(**  **)**   |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_utils_unitysystemconsoleredirector_1a22348487abea4e1c4d3ffbd84c8fc7dd:
 

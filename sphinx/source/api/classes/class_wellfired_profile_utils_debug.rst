@@ -21,8 +21,8 @@ Public Static Methods
 |void         |:ref:`LogError<classwellfired_profile_utils_debug_1a7fb7fae99a10b25ec91648b03e4bf926>` **(** string message **)**     |
 +-------------+----------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_utils_debug_1a3e4ed6c3e67e98a09df4fbbae94e465b:
 

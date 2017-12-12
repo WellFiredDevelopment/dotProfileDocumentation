@@ -19,8 +19,8 @@ Public Methods
 |bool                                                                                                                 |:ref:`IsUILoaded<interfacewellfired_profile_profileprocessor_visual_group_iuiloader_1a626d0e630f419f184a3042f0694710a1>` **(**  **)**   |
 +---------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_profileprocessor_visual_group_iuiloader_1aa763fed183eaa5a3c11540ac02a863a6:
 

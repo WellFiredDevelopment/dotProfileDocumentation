@@ -19,8 +19,8 @@ Public Methods
 |void         |:ref:`Update<interfacewellfired_profile_profileprocessor_visual_ui_iuicontroller_1a8009688377c603f0d6545c7be5a03059>` **(**  **)**                                                                                                                       |
 +-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_profileprocessor_visual_ui_iuicontroller_1aaae01796185a712ffdceadbd0d6e4fa8:
 

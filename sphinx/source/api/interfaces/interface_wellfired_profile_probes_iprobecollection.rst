@@ -13,9 +13,9 @@ A probe collection is a collection of probes.
 Properties
 -----------
 
-+-------------+------------------------------------------------------------------------------------------------------------------------+
-|int          |:ref:`ProbeCount<interfacewellfired_profile_probes_iprobecollection_1a769449ae94766ffdad919ad7df858afc>` **(**  **)**   |
-+-------------+------------------------------------------------------------------------------------------------------------------------+
++-------------+---------------------------------------------------------------------------------------------------------------------------------+
+|int          |:ref:`ProbeCount<interfacewellfired_profile_probes_iprobecollection_1a769449ae94766ffdad919ad7df858afc>` **{** get; set; **}**   |
++-------------+---------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -26,12 +26,12 @@ Public Methods
 |bool         |:ref:`RemoveProbe<interfacewellfired_profile_probes_iprobecollection_1ad59fbfd9d77a8298a2cff01dc913ca9c>` **(** :ref:`IProbe<interfacewellfired_profile_probes_iprobe>` probe **)**   |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_probes_iprobecollection_1a769449ae94766ffdad919ad7df858afc:
 
-- int **ProbeCount** **(**  **)**
+- int **ProbeCount** **{** get; set; **}**
 
     **Description**
 

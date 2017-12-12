@@ -22,8 +22,8 @@ Public Methods
 |string       |:ref:`FormattedValue<classwellfired_profile_unity_runtime_probes_timesettings_maximumallowedtimestepprobe_1a3c2269e98ce4d9983c592f256c158dea>` **(** object value **)**   |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_timesettings_maximumallowedtimestepprobe_1ac9f2e99e3966aa5a0dbdd04a9c6a6868:
 

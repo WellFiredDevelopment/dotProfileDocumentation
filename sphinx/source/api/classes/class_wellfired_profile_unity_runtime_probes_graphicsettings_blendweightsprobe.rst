@@ -22,8 +22,8 @@ Public Methods
 |string       |:ref:`FormattedValue<classwellfired_profile_unity_runtime_probes_graphicsettings_blendweightsprobe_1ac222b765c7a72d173d60303159a119ee>` **(** object value **)**   |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_blendweightsprobe_1a211c04ff54870275cd61b6e570f8f028:
 

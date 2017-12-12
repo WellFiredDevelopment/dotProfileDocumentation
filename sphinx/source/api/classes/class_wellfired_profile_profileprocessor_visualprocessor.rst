@@ -27,15 +27,15 @@ Public Methods
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |             |:ref:`VisualProcessor<classwellfired_profile_profileprocessor_visualprocessor_1aded3d174f5c313ebadcfe1e658c77849>` **(** :ref:`IUILoader<interfacewellfired_profile_profileprocessor_visual_group_iuiloader>` uiLoader, Func< bool > toggleUIFunc, :ref:`IRuntimeTaskLooper<interfacewellfired_profile_utils_iruntimetasklooper>` runtimeTaskLooper **)**   |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|void         |:ref:`RecordingStarted<classwellfired_profile_profileprocessor_visualprocessor_1aaaa859c0ea0864b0372db3d246922b84>` **(** :ref:`ProbeRecorder<classwellfired_profile_probes_proberecorder>` [] probeRecorders **)**                                                                                                                                         |
+|void         |:ref:`RecordingStarted<classwellfired_profile_profileprocessor_visualprocessor_1aaaa859c0ea0864b0372db3d246922b84>` **(** :ref:`ProbeRecorder<classwellfired_profile_probes_proberecorder>`[] probeRecorders **)**                                                                                                                                          |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |void         |:ref:`RecordingUpdated<classwellfired_profile_profileprocessor_visualprocessor_1a8775435f673315e5c8246d24dc65e23e>` **(**  **)**                                                                                                                                                                                                                            |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |void         |:ref:`RecordingStopped<classwellfired_profile_profileprocessor_visualprocessor_1a4f604836b79977681d617d218f011069>` **(**  **)**                                                                                                                                                                                                                            |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_visualprocessor_1ab458270b1bf70ea3e92a4bde57b3bcbc:
 
@@ -109,7 +109,7 @@ Method Breakdown
         
 .. _classwellfired_profile_profileprocessor_visualprocessor_1aaaa859c0ea0864b0372db3d246922b84:
 
-- void **RecordingStarted** **(** :ref:`ProbeRecorder<classwellfired_profile_probes_proberecorder>` [] probeRecorders **)**
+- void **RecordingStarted** **(** :ref:`ProbeRecorder<classwellfired_profile_probes_proberecorder>`[] probeRecorders **)**
 
     **Description**
 

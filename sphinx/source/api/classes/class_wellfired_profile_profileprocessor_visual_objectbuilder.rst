@@ -16,9 +16,9 @@ Description
 Properties
 -----------
 
-+-------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
-|:ref:`IObjectBuilder<interfacewellfired_profile_profileprocessor_visual_iobjectbuilder>`   |:ref:`Instance<classwellfired_profile_profileprocessor_visual_objectbuilder_1a961d3a4713192126d7d34d2059f97399>` **(**  **)**   |
-+-------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------+
++-------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
+|:ref:`IObjectBuilder<interfacewellfired_profile_profileprocessor_visual_iobjectbuilder>`   |:ref:`Instance<classwellfired_profile_profileprocessor_visual_objectbuilder_1a961d3a4713192126d7d34d2059f97399>` **{** get; set; **}**   |
++-------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -31,12 +31,12 @@ Public Methods
 |:ref:`IUIController<interfacewellfired_profile_profileprocessor_visual_ui_iuicontroller>`   |:ref:`GetGraphController<classwellfired_profile_profileprocessor_visual_objectbuilder_1aec1d8066024fd855adadf7271e85d37b>` **(** :ref:`IUIGraph<interfacewellfired_profile_profileprocessor_visual_group_iuigraph>` graph, :ref:`GraphConfig<classwellfired_profile_profileprocessor_visual_graph_graphconfig>` graphConfig, :ref:`IVisualObjectFactory<interfacewellfired_profile_profileprocessor_visual_ui_ivisualobjectfactory>` visualObjectFactory **)**   |
 +--------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_visual_objectbuilder_1a961d3a4713192126d7d34d2059f97399:
 
-- :ref:`IObjectBuilder<interfacewellfired_profile_profileprocessor_visual_iobjectbuilder>` **Instance** **(**  **)**
+- :ref:`IObjectBuilder<interfacewellfired_profile_profileprocessor_visual_iobjectbuilder>` **Instance** **{** get; set; **}**
 
 .. _classwellfired_profile_profileprocessor_visual_objectbuilder_1a041abae095050833b3125b534259fb82:
 

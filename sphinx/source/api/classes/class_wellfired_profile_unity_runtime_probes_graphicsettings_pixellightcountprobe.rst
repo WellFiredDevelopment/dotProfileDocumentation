@@ -20,8 +20,8 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_graphicsettings_pixellightcountprobe_1a3dc688584495656588d1371629012734>` **(**  **)**   |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_pixellightcountprobe_1a3dc688584495656588d1371629012734:
 

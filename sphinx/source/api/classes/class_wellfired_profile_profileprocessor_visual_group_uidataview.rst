@@ -16,17 +16,17 @@ Description
 Properties
 -----------
 
-+-------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
-|string                                                                   |:ref:`ProbeName<classwellfired_profile_profileprocessor_visual_group_uidataview_1a454de22e62629fafa2e9c07596eb4022>` **(**  **)**    |
-+-------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
-|string                                                                   |:ref:`ProbeValue<classwellfired_profile_profileprocessor_visual_group_uidataview_1a60a6815381cbfd689aea2bed231f7883>` **(**  **)**   |
-+-------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
-|:ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>`   |:ref:`Size<classwellfired_profile_profileprocessor_visual_group_uidataview_1a76b16226a7cfaf9a0c3e101a9cc7dc75>` **(**  **)**         |
-+-------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
-|:ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>`   |:ref:`Position<classwellfired_profile_profileprocessor_visual_group_uidataview_1a6210053591d7d141964ea9f5bdcfef28>` **(**  **)**     |
-+-------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
-|:ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>`   |:ref:`Color<classwellfired_profile_profileprocessor_visual_group_uidataview_1a99407f2d2389f0650162670c23080e1b>` **(**  **)**        |
-+-------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------+
++-------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+|string                                                                   |:ref:`ProbeName<classwellfired_profile_profileprocessor_visual_group_uidataview_1a454de22e62629fafa2e9c07596eb4022>` **{** get; set; **}**    |
++-------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+|string                                                                   |:ref:`ProbeValue<classwellfired_profile_profileprocessor_visual_group_uidataview_1a60a6815381cbfd689aea2bed231f7883>` **{** get; set; **}**   |
++-------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+|:ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>`   |:ref:`Size<classwellfired_profile_profileprocessor_visual_group_uidataview_1a76b16226a7cfaf9a0c3e101a9cc7dc75>` **{** get; set; **}**         |
++-------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+|:ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>`   |:ref:`Position<classwellfired_profile_profileprocessor_visual_group_uidataview_1a6210053591d7d141964ea9f5bdcfef28>` **{** get; set; **}**     |
++-------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
+|:ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>`   |:ref:`Color<classwellfired_profile_profileprocessor_visual_group_uidataview_1a99407f2d2389f0650162670c23080e1b>` **{** get; set; **}**        |
++-------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -41,28 +41,28 @@ Public Methods
 |void         |:ref:`Recycle<classwellfired_profile_profileprocessor_visual_group_uidataview_1afb5d85dc27bf08ec22813975a447fd75>` **(**  **)**                                                                                                                                                                                                                                                                     |
 +-------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_profileprocessor_visual_group_uidataview_1a454de22e62629fafa2e9c07596eb4022:
 
-- string **ProbeName** **(**  **)**
+- string **ProbeName** **{** get; set; **}**
 
 .. _classwellfired_profile_profileprocessor_visual_group_uidataview_1a60a6815381cbfd689aea2bed231f7883:
 
-- string **ProbeValue** **(**  **)**
+- string **ProbeValue** **{** get; set; **}**
 
 .. _classwellfired_profile_profileprocessor_visual_group_uidataview_1a76b16226a7cfaf9a0c3e101a9cc7dc75:
 
-- :ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>` **Size** **(**  **)**
+- :ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>` **Size** **{** get; set; **}**
 
 .. _classwellfired_profile_profileprocessor_visual_group_uidataview_1a6210053591d7d141964ea9f5bdcfef28:
 
-- :ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>` **Position** **(**  **)**
+- :ref:`Vect2<structwellfired_profile_profileprocessor_visual_ui_vect2>` **Position** **{** get; set; **}**
 
 .. _classwellfired_profile_profileprocessor_visual_group_uidataview_1a99407f2d2389f0650162670c23080e1b:
 
-- :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>` **Color** **(**  **)**
+- :ref:`Color<structwellfired_profile_profileprocessor_visual_ui_color>` **Color** **{** get; set; **}**
 
 .. _classwellfired_profile_profileprocessor_visual_group_uidataview_1a38cda54eb2ee83a808a8e1572d828324:
 

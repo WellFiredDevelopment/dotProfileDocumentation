@@ -20,8 +20,8 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_graphicsettings_shadow_nearplaneoffsetprobe_1a0f682b6eb448807c704d7541e54dea45>` **(**  **)**   |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_graphicsettings_shadow_nearplaneoffsetprobe_1a0f682b6eb448807c704d7541e54dea45:
 

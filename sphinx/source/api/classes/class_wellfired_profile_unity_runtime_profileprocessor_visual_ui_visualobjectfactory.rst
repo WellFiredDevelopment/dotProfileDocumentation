@@ -22,8 +22,8 @@ Public Methods
 |:ref:`IText<interfacewellfired_profile_profileprocessor_visual_ui_itext>`             |:ref:`GetText<classwellfired_profile_unity_runtime_profileprocessor_visual_ui_visualobjectfactory_1ab3274cff2dcaa6a7fb6787ac0c93a6b5>` **(**  **)**        |
 +--------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_profileprocessor_visual_ui_visualobjectfactory_1af542c63aaaa0ca2225dfdaccb26c2174:
 

@@ -16,9 +16,9 @@ Description
 Properties
 -----------
 
-+-------------+---------------------------------------------------------------------------------------------------------------------------------------+
-|string       |:ref:`Name<classwellfired_profile_unity_runtime_probes_continuousdata_cpuloadprobe_1a7ffe82547ed06c874386632088192e7c>` **(**  **)**   |
-+-------------+---------------------------------------------------------------------------------------------------------------------------------------+
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+|string       |:ref:`Name<classwellfired_profile_unity_runtime_probes_continuousdata_cpuloadprobe_1a7ffe82547ed06c874386632088192e7c>` **{** get; set; **}**   |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -29,12 +29,12 @@ Public Methods
 |object       |:ref:`Probe<classwellfired_profile_unity_runtime_probes_continuousdata_cpuloadprobe_1aff3fbae44779958485371da0d3ce5414>` **(**  **)**          |
 +-------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_continuousdata_cpuloadprobe_1a7ffe82547ed06c874386632088192e7c:
 
-- string **Name** **(**  **)**
+- string **Name** **{** get; set; **}**
 
 .. _classwellfired_profile_unity_runtime_probes_continuousdata_cpuloadprobe_1af51e8ad52123e99db50e4fb39536c467:
 

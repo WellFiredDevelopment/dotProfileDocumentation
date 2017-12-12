@@ -13,14 +13,14 @@ Used by :ref:`VisualProcessor<classwellfired_profile_profileprocessor_visualproc
 Properties
 -----------
 
-+---------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
-|Func< bool >   |:ref:`DefaultFunction<interfacewellfired_profile_profileprocessor_visual_ui_idefaultuitoggler_1a780402cf2b9539a767b2ea498f2a3fa2>` **(**  **)**   |
-+---------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
+|Func< bool >   |:ref:`DefaultFunction<interfacewellfired_profile_profileprocessor_visual_ui_idefaultuitoggler_1a780402cf2b9539a767b2ea498f2a3fa2>` **{** get; set; **}**   |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_profileprocessor_visual_ui_idefaultuitoggler_1a780402cf2b9539a767b2ea498f2a3fa2:
 
-- Func< bool > **DefaultFunction** **(**  **)**
+- Func< bool > **DefaultFunction** **{** get; set; **}**
 

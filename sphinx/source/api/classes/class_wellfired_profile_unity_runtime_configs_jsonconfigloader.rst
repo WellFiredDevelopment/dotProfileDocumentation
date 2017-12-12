@@ -20,8 +20,8 @@ Public Methods
 |string       |:ref:`LoadJsonConfig<classwellfired_profile_unity_runtime_configs_jsonconfigloader_1a21f9677d8765260b909aadb050f5ac5f>` **(** string fileName **)**   |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_configs_jsonconfigloader_1a21f9677d8765260b909aadb050f5ac5f:
 

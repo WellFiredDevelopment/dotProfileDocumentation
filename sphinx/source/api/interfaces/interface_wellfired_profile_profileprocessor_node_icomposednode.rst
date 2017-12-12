@@ -13,9 +13,9 @@ Description
 Properties
 -----------
 
-+-------------+---------------------------------------------------------------------------------------------------------------------------------------+
-|int          |:ref:`ChildrenCount<interfacewellfired_profile_profileprocessor_node_icomposednode_1ac629628dbe16fd30c3177d8631111341>` **(**  **)**   |
-+-------------+---------------------------------------------------------------------------------------------------------------------------------------+
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+|int          |:ref:`ChildrenCount<interfacewellfired_profile_profileprocessor_node_icomposednode_1ac629628dbe16fd30c3177d8631111341>` **{** get; set; **}**   |
++-------------+------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -28,12 +28,12 @@ Public Methods
 |IEnumerable< :ref:`INode<interfacewellfired_profile_profileprocessor_node_inode>` >   |:ref:`GetChildren<interfacewellfired_profile_profileprocessor_node_icomposednode_1afed9f59a735bc44d3ec372cdfdbc9848>` **(**  **)**                                                                                            |
 +--------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _interfacewellfired_profile_profileprocessor_node_icomposednode_1ac629628dbe16fd30c3177d8631111341:
 
-- int **ChildrenCount** **(**  **)**
+- int **ChildrenCount** **{** get; set; **}**
 
 .. _interfacewellfired_profile_profileprocessor_node_icomposednode_1a15b497326ffe3eb8c5b186548f0129e8:
 

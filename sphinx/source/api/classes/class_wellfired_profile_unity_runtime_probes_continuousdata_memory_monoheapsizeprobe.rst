@@ -22,8 +22,8 @@ Public Methods
 |string       |:ref:`FormattedValue<classwellfired_profile_unity_runtime_probes_continuousdata_memory_monoheapsizeprobe_1a543c7d7f669c8d68ca797850730692c4>` **(** object value **)**   |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_probes_continuousdata_memory_monoheapsizeprobe_1ad52e6e53d3dd61dcfd933ff1d463d703:
 

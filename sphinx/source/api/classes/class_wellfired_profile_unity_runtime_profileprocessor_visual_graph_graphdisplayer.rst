@@ -16,11 +16,11 @@ Description
 Public Properties
 ------------------
 
-+-------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
-|int          |:ref:`SizeX<classwellfired_profile_unity_runtime_profileprocessor_visual_graph_graphdisplayer_1a70759018d4475141de1d2c154cbda496>` **(**  **)**   |
-+-------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
-|int          |:ref:`SizeY<classwellfired_profile_unity_runtime_profileprocessor_visual_graph_graphdisplayer_1a1c2846f427428e9a8333a8117e26dedd>` **(**  **)**   |
-+-------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
++-------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|int          |:ref:`SizeX<classwellfired_profile_unity_runtime_profileprocessor_visual_graph_graphdisplayer_1a70759018d4475141de1d2c154cbda496>`    |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------+
+|int          |:ref:`SizeY<classwellfired_profile_unity_runtime_profileprocessor_visual_graph_graphdisplayer_1a1c2846f427428e9a8333a8117e26dedd>`    |
++-------------+--------------------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -37,16 +37,16 @@ Public Methods
 |:ref:`IVisualObjectFactory<interfacewellfired_profile_profileprocessor_visual_ui_ivisualobjectfactory>`   |:ref:`GetGraphObjectFactory<classwellfired_profile_unity_runtime_profileprocessor_visual_graph_graphdisplayer_1a44be9811c247149efada407a37c33b4b>` **(**  **)**                                                                              |
 +----------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Method Breakdown
------------------
+Breakdown
+----------
 
 .. _classwellfired_profile_unity_runtime_profileprocessor_visual_graph_graphdisplayer_1a70759018d4475141de1d2c154cbda496:
 
-- int **SizeX** **(**  **)**
+- int **SizeX** 
 
 .. _classwellfired_profile_unity_runtime_profileprocessor_visual_graph_graphdisplayer_1a1c2846f427428e9a8333a8117e26dedd:
 
-- int **SizeY** **(**  **)**
+- int **SizeY** 
 
 .. _classwellfired_profile_unity_runtime_profileprocessor_visual_graph_graphdisplayer_1a472ed2bb7c368b8457fa667d01f170e6:
 
