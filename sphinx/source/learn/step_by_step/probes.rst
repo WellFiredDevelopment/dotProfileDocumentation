@@ -129,6 +129,8 @@ Now that you have your custom probe, the last step is to tell your .Profile sess
 When Tracking a custom probe, you are required to tell your session if it should be probed continuously or only once and
 at what interval. This corresponds to the second and third parameter respectively.
 
+A single session can have any number of probes.
+
 Next up
 -------
 

@@ -8,6 +8,6 @@ Step By Step
 
     installing.rst
     quick_start.rst
+    session.rst
     probes.rst
     processors.rst
-    profile.rst

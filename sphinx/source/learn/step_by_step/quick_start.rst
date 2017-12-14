@@ -56,7 +56,7 @@ a simple cs script with an OnStart Method to a complex FSM.
     .. code-block:: c#
 
         // Process recorded data using the built in visual display extension
-        session.ProcessData(new VisualProcessor(DisplayUI, new [] { typeof(CustomProbe) }));
+        session.ProcessData(new VisualProcessor(() => Input.GetKeyDown(KeyCode.A)));
 
 6) Tell the session to start recording
 
