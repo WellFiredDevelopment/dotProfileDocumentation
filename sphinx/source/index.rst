@@ -1,7 +1,7 @@
-dotProfile Documentation
-========================
+.Profile Documentation
+======================
 
-Welcome to the official documentation for dotProfile; the session-based, deterministic performance data reporting tool
+Welcome to the official documentation for .Profile; the session-based, deterministic performance data reporting tool
 for your applications built on unity3d. We recommend you read the :ref:`introduction page <doc_about_intro>` to get an
 overview of what this documentation has to offer.
 

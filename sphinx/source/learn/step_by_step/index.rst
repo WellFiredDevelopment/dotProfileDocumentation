@@ -7,3 +7,7 @@ Step By Step
     :glob:
 
     installing.rst
+    quick_start.rst
+    probes.rst
+    processors.rst
+    profile.rst
