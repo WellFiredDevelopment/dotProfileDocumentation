@@ -11,7 +11,7 @@ FileStreamerProcessor
 Description
 ------------
 
-A custom :ref:`Profile<classwellfired_profile_profile>` Processor that will stream your profiled data to disk. Use this variation if you're worried about your application not exiting cleanly, otherwise, use the :ref:`FileProcessor<classwellfired_profile_profileprocessor_fileprocessor>`
+A custom :ref:`Profile<namespacewellfired_profile>` Processor that will stream your profiled data to disk. Use this variation if you're worried about your application not exiting cleanly, otherwise, use the :ref:`FileProcessor<classwellfired_profile_profileprocessor_fileprocessor>`
 
 Public Methods
 ---------------

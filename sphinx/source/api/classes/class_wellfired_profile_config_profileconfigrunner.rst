@@ -14,7 +14,7 @@ Public Methods
 ---------------
 
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|             |:ref:`ProfileConfigRunner<classwellfired_profile_config_profileconfigrunner_1a550b74d6cca63b5d026aeb5664d22d6c>` **(** :ref:`IProfile<interfacewellfired_profile_iprofile>` profile, :ref:`ProfileConfigLoader<classwellfired_profile_config_utils_profileconfigloader>` profileConfigLoader, string configName **)**   |
+|             |:ref:`ProfileConfigRunner<classwellfired_profile_config_profileconfigrunner_1a9605c283a23ed64e90ad3cfb6ca29c8b>` **(** :ref:`ISession<interfacewellfired_profile_isession>` session, :ref:`ProfileConfigLoader<classwellfired_profile_config_utils_profileconfigloader>` profileConfigLoader, string configName **)**   |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |void         |:ref:`RunSession<classwellfired_profile_config_profileconfigrunner_1a0b5e9824a2271a29c9a6ceedffd6f80c>` **(**  **)**                                                                                                                                                                                                    |
 +-------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -24,9 +24,9 @@ Public Methods
 Breakdown
 ----------
 
-.. _classwellfired_profile_config_profileconfigrunner_1a550b74d6cca63b5d026aeb5664d22d6c:
+.. _classwellfired_profile_config_profileconfigrunner_1a9605c283a23ed64e90ad3cfb6ca29c8b:
 
--  **ProfileConfigRunner** **(** :ref:`IProfile<interfacewellfired_profile_iprofile>` profile, :ref:`ProfileConfigLoader<classwellfired_profile_config_utils_profileconfigloader>` profileConfigLoader, string configName **)**
+-  **ProfileConfigRunner** **(** :ref:`ISession<interfacewellfired_profile_isession>` session, :ref:`ProfileConfigLoader<classwellfired_profile_config_utils_profileconfigloader>` profileConfigLoader, string configName **)**
 
 .. _classwellfired_profile_config_profileconfigrunner_1a0b5e9824a2271a29c9a6ceedffd6f80c:
 

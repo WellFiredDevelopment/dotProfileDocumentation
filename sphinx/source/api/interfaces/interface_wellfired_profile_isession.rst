@@ -1,6 +1,6 @@
-.. _interfacewellfired_profile_iprofile:
+.. _interfacewellfired_profile_isession:
 
-IProfile
+ISession
 =========
 
 **Namespace:** :ref:`WellFired<namespacewellfired>`
@@ -14,23 +14,23 @@ Public Methods
 ---------------
 
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|void         |:ref:`StartRecording<interfacewellfired_profile_iprofile_1aee366237f48ae0bfc0afe49ac587583c>` **(**  **)**                                                                                                                                                                                                    |
+|void         |:ref:`StartRecording<interfacewellfired_profile_isession_1ac70a369fea8987e748acdfacd3d499be>` **(**  **)**                                                                                                                                                                                                    |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|void         |:ref:`StopRecording<interfacewellfired_profile_iprofile_1aab8b82b829d662d7c72d988527e9c8e0>` **(**  **)**                                                                                                                                                                                                     |
+|void         |:ref:`StopRecording<interfacewellfired_profile_isession_1a1c9bf254b632487939759533a9ce0e6f>` **(**  **)**                                                                                                                                                                                                     |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|void         |:ref:`Track<interfacewellfired_profile_iprofile_1aae6556095115643f579b6cc750f17f4d>` **(** :ref:`IProbe<interfacewellfired_profile_probes_iprobe>` probe, :ref:`RecordMode<namespacewellfired_profile_probes_1a3a8dc0a82edb0eba6bb423fbc8910987>` recordMode = RecordMode.Continous, int interval = 0 **)**   |
+|void         |:ref:`Track<interfacewellfired_profile_isession_1a92f2983109dfe7bc4060a8e40fab5429>` **(** :ref:`IProbe<interfacewellfired_profile_probes_iprobe>` probe, :ref:`RecordMode<namespacewellfired_profile_probes_1a3a8dc0a82edb0eba6bb423fbc8910987>` recordMode = RecordMode.Continous, int interval = 0 **)**   |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|void         |:ref:`Track<interfacewellfired_profile_iprofile_1a3fcd45eda3f5cc9e756ae62f251d466a>` **(** Func< object > method, :ref:`RecordMode<namespacewellfired_profile_probes_1a3a8dc0a82edb0eba6bb423fbc8910987>` recordMode = RecordMode.Continous, int interval = 0 **)**                                           |
+|void         |:ref:`Track<interfacewellfired_profile_isession_1ab4b775de428ad14fca84cdcf5c164802>` **(** Func< object > method, :ref:`RecordMode<namespacewellfired_profile_probes_1a3a8dc0a82edb0eba6bb423fbc8910987>` recordMode = RecordMode.Continous, int interval = 0 **)**                                           |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|void         |:ref:`Track<interfacewellfired_profile_iprofile_1a68df2fe9da924f5ccf6e95d0c7747b7b>` **(** IEnumerable< :ref:`DefaultProbe<classwellfired_profile_probes_defaultprobe>` > probes **)**                                                                                                                        |
+|void         |:ref:`Track<interfacewellfired_profile_isession_1a5da630902eb4c43102a0a817f1b53fd5>` **(** IEnumerable< :ref:`DefaultProbe<classwellfired_profile_probes_defaultprobe>` > probes **)**                                                                                                                        |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|void         |:ref:`ProcessData<interfacewellfired_profile_iprofile_1a009f3be1178abab7390c3571221f0f75>` **(** :ref:`IProfileProcessor<interfacewellfired_profile_profileprocessor_iprofileprocessor>` processor **)**                                                                                                      |
+|void         |:ref:`ProcessData<interfacewellfired_profile_isession_1a7b783380bb6cc4c811a534a0691f896c>` **(** :ref:`IProfileProcessor<interfacewellfired_profile_profileprocessor_iprofileprocessor>` processor **)**                                                                                                      |
 +-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Breakdown
 ----------
 
-.. _interfacewellfired_profile_iprofile_1aee366237f48ae0bfc0afe49ac587583c:
+.. _interfacewellfired_profile_isession_1ac70a369fea8987e748acdfacd3d499be:
 
 - void **StartRecording** **(**  **)**
 
@@ -38,7 +38,7 @@ Breakdown
 
         Will start this profilers recording session. What is tracked and how it is process should be specify beforehand 
 
-.. _interfacewellfired_profile_iprofile_1aab8b82b829d662d7c72d988527e9c8e0:
+.. _interfacewellfired_profile_isession_1a1c9bf254b632487939759533a9ce0e6f:
 
 - void **StopRecording** **(**  **)**
 
@@ -46,7 +46,7 @@ Breakdown
 
         Will Stop this profilers recording session. 
 
-.. _interfacewellfired_profile_iprofile_1aae6556095115643f579b6cc750f17f4d:
+.. _interfacewellfired_profile_isession_1a92f2983109dfe7bc4060a8e40fab5429:
 
 - void **Track** **(** :ref:`IProbe<interfacewellfired_profile_probes_iprobe>` probe, :ref:`RecordMode<namespacewellfired_profile_probes_1a3a8dc0a82edb0eba6bb423fbc8910987>` recordMode = RecordMode.Continous, int interval = 0 **)**
 
@@ -64,7 +64,7 @@ Breakdown
         |interval     |Time interval between each data sampling. Note that the time used is based on the system clock, therefore it is independent from the game time scale   |
         +-------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
         
-.. _interfacewellfired_profile_iprofile_1a3fcd45eda3f5cc9e756ae62f251d466a:
+.. _interfacewellfired_profile_isession_1ab4b775de428ad14fca84cdcf5c164802:
 
 - void **Track** **(** Func< object > method, :ref:`RecordMode<namespacewellfired_profile_probes_1a3a8dc0a82edb0eba6bb423fbc8910987>` recordMode = RecordMode.Continous, int interval = 0 **)**
 
@@ -82,7 +82,7 @@ Breakdown
         |interval     |
         +-------------+
         
-.. _interfacewellfired_profile_iprofile_1a68df2fe9da924f5ccf6e95d0c7747b7b:
+.. _interfacewellfired_profile_isession_1a5da630902eb4c43102a0a817f1b53fd5:
 
 - void **Track** **(** IEnumerable< :ref:`DefaultProbe<classwellfired_profile_probes_defaultprobe>` > probes **)**
 
@@ -96,7 +96,7 @@ Breakdown
         |probes       |You can also pass one of the provided utilities like Defaults.All   |
         +-------------+--------------------------------------------------------------------+
         
-.. _interfacewellfired_profile_iprofile_1a009f3be1178abab7390c3571221f0f75:
+.. _interfacewellfired_profile_isession_1a7b783380bb6cc4c811a534a0691f896c:
 
 - void **ProcessData** **(** :ref:`IProfileProcessor<interfacewellfired_profile_profileprocessor_iprofileprocessor>` processor **)**
 

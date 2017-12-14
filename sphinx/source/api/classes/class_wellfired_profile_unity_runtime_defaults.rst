@@ -8,7 +8,7 @@ Defaults
 Description
 ------------
 
-:ref:`Defaults<classwellfired_profile_unity_runtime_defaults>` provide a static access to different group of probes (All, Texture, etc...) that can be directly tracked by a :ref:`IProfile<interfacewellfired_profile_iprofile>`. 
+:ref:`Defaults<classwellfired_profile_unity_runtime_defaults>` provide a static access to different group of probes (All, Texture, etc...) that can be directly tracked by a IProfile. 
 
 public-static-attrib
 ---------------------
