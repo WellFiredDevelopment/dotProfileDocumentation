@@ -8,7 +8,7 @@ DotProfileSession
 Description
 ------------
 
-Provides a set of Utility methods that allow the user to quickly instantiate and use Profilers, without having to think about platform specific implementations. 
+A Utility interface that allows users to quickly obtain and manage Sessions. 
 
 Public Static Methods
 ----------------------
@@ -30,7 +30,7 @@ Breakdown
 
     **Description**
 
-        Return a profile allowing to specify details about a record session (data to track, how to process it) and start then stop it. 
+        Return a new :ref:`ISession<interfacewellfired_profile_isession>` allowing the caller to specify details about a what to record, when to record it and how to process that data. 
 
 .. _classwellfired_profile_unity_runtime_dotprofilesession_1ac8def160e14194ee68deeca66e45127a:
 
