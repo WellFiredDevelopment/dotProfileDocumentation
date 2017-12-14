@@ -5,8 +5,8 @@ Installing
 
 Package Contents
 ----------------
-Each .unitypackage downloaded from the store or from the `WellFired <https://www.wellfired.com>`_ website will have the
-same contents.
+Each .unitypackage downloaded from the AssetStore or from the `WellFired <https://www.wellfired.com>`_ website will have
+the same contents.
 
 * \/WellFired
     Here you're going to find all things related to the .Profile project.
@@ -15,7 +15,7 @@ same contents.
     ensure Unity doesn't remove needed assemblies.
 * /Bootstrap.cs
     This is a simple script that you can attach to a game object and have instant profile support. Feel free to
-    investigate this script, this script should be well commented and give you a solid base.
+    investigate this script.
 
 Dependencies
 ------------
@@ -32,8 +32,8 @@ existing project, especially if it's a large project, the following assemblies a
 * WellFired.Promise
     A lightweight promise library.
 
-.. tip:: If either of these assemblies conflict with your project, removing them won't harm .Profile, .Profile will
-         simply default to using the versions contained in your project.
+.. tip:: You can safely remove either of these assemblies if they conflict with your project, removing them won't harm
+         .Profile, .Profile will simply default to using the versions contained in your project.
 
 Installing
 ----------
