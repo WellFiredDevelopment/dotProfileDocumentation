@@ -44,7 +44,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'dotProfile'
+project = u'.Profile'
 copyright = u'2017, Well Fired Development'
 author = u'Well Fired Development'
 

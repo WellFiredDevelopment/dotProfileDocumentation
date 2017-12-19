@@ -28,6 +28,7 @@ The main documentation for the site is organized into the following sections:
    :name: sec-learn
 
    learn/step_by_step/index
+   learn/advanced/index
 
 .. toctree::
    :maxdepth: 1
