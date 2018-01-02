@@ -45,7 +45,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'.Profile'
-copyright = u'2017, Well Fired Development'
+copyright = u'2017 - 2018, Well Fired Development'
 author = u'Well Fired Development'
 
 # The version info for the project you're documenting, acts as replacement for
