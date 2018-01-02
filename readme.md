@@ -1,6 +1,6 @@
 # .Profile documentation
 
-This repository contains the source files of [.Profiles](hhttp://dotprofile-documentation.readthedocs.io/en/stable/)'s documentation,  in reStructuredText markup language (reST).
+This repository contains the source files of [.Profiles](http://dotprofile-documentation.readthedocs.io/en/stable/)'s documentation,  in reStructuredText markup language (reST).
 
 They are meant to be parsed with the [Sphinx](http://sphinx-doc.org/) documentation builder to build the HTML documentation on [.Profile's](http://dotprofile-documentation.readthedocs.io/en/stable/) documentation page.
 
