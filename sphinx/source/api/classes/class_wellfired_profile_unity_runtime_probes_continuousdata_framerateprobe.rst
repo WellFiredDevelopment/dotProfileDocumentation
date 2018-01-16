@@ -11,7 +11,7 @@ FramerateProbe
 Description
 ------------
 
-:ref:`Probes<namespacewellfired_profile_unity_runtime_probes>` the current Framerate 
+:ref:`Probes<namespacewellfired_profile_unity_runtime_probes>` the current Framerate, which is equal to the inverse of the time elapsed in second to coplete the last frame 
 
 Public Methods
 ---------------
