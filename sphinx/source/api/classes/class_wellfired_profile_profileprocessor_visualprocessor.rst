@@ -50,7 +50,7 @@ Breakdown
 
     **Description**
 
-        This gives you access to the different parameters to configure your graph. Note that once your .:ref:`Profile<namespacewellfired_profile>` session started, any modification to the graph config won't have any impact. 
+        This gives you access to the different parameters to configure your graph. Note that once your :ref:`Profile<namespacewellfired_profile>` session started, any modification to the graph config won't have any impact. 
 
 .. _classwellfired_profile_profileprocessor_visualprocessor_1ab458270b1bf70ea3e92a4bde57b3bcbc:
 
