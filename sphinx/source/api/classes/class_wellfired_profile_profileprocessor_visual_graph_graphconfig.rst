@@ -18,6 +18,8 @@ Public Properties
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
 |float        |:ref:`ScaleY<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a7271a9c8aaf2709cd41f70a4460a9e43>`             |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
+|float        |:ref:`OriginY<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1adeae7da2f07ee32b1e33358228807d69>`            |
++-------------+-------------------------------------------------------------------------------------------------------------------------------+
 |float        |:ref:`MarkerXInterval<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1ad81c418d26b0e5a0cf98e2b510520e95>`    |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
 |float        |:ref:`MarkerYInterval<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a42fa5821950790a788ed3cfa924a339a>`    |
@@ -45,6 +47,14 @@ Breakdown
     **Description**
 
         Number of unity that should be displayed on the Y axis. Starting from 0. 
+
+.. _classwellfired_profile_profileprocessor_visual_graph_graphconfig_1adeae7da2f07ee32b1e33358228807d69:
+
+- float **OriginY** 
+
+    **Description**
+
+        The value on Y axes at the graph origin. To visualize values between 450 and 400 you would set :ref:`ScaleY<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1a7271a9c8aaf2709cd41f70a4460a9e43>` to 50, and :ref:`OriginY<classwellfired_profile_profileprocessor_visual_graph_graphconfig_1adeae7da2f07ee32b1e33358228807d69>` to 450. 
 
 .. _classwellfired_profile_profileprocessor_visual_graph_graphconfig_1ad81c418d26b0e5a0cf98e2b510520e95:
 

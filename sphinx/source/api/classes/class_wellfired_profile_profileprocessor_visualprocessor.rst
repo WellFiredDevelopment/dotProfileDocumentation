@@ -13,6 +13,13 @@ Description
 
 A custom processor that has a visual representation 
 
+Properties
+-----------
+
++---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+|:ref:`GraphConfig<classwellfired_profile_profileprocessor_visual_graph_graphconfig>`   |:ref:`GraphConfig<classwellfired_profile_profileprocessor_visualprocessor_1ac2bcb42858c86bd08d27b1cd6f4092f1>` **{** get; set; **}**   |
++---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+
 Public Methods
 ---------------
 
@@ -36,6 +43,14 @@ Public Methods
 
 Breakdown
 ----------
+
+.. _classwellfired_profile_profileprocessor_visualprocessor_1ac2bcb42858c86bd08d27b1cd6f4092f1:
+
+- :ref:`GraphConfig<classwellfired_profile_profileprocessor_visual_graph_graphconfig>` **GraphConfig** **{** get; set; **}**
+
+    **Description**
+
+        This gives you access to the different parameters to configure your graph. Note that once your .:ref:`Profile<namespacewellfired_profile>` session started, any modification to the graph config won't have any impact. 
 
 .. _classwellfired_profile_profileprocessor_visualprocessor_1ab458270b1bf70ea3e92a4bde57b3bcbc:
 
