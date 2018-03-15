@@ -13,12 +13,12 @@ Description
 
 :ref:`Probes<namespacewellfired_profile_unity_runtime_probes>` the CPU Load 
 
-Properties
------------
+Public Properties
+------------------
 
-+-------------+------------------------------------------------------------------------------------------------------------------------------------------------+
-|string       |:ref:`Name<classwellfired_profile_unity_runtime_probes_continuousdata_cpuloadprobe_1a7ffe82547ed06c874386632088192e7c>` **{** get; set; **}**   |
-+-------------+------------------------------------------------------------------------------------------------------------------------------------------------+
++-------------+---------------------------------------------------------------------------------------------------------------------------+
+|string       |:ref:`Name<classwellfired_profile_unity_runtime_probes_continuousdata_cpuloadprobe_1a7ffe82547ed06c874386632088192e7c>`    |
++-------------+---------------------------------------------------------------------------------------------------------------------------+
 
 Public Methods
 ---------------
@@ -34,7 +34,7 @@ Breakdown
 
 .. _classwellfired_profile_unity_runtime_probes_continuousdata_cpuloadprobe_1a7ffe82547ed06c874386632088192e7c:
 
-- string **Name** **{** get; set; **}**
+- string **Name** 
 
 .. _classwellfired_profile_unity_runtime_probes_continuousdata_cpuloadprobe_1af51e8ad52123e99db50e4fb39536c467:
 
